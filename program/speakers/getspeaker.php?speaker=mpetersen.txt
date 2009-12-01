@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Linux Plumbers Conference 2008</title>
+<meta name="author" content="Jennifer Redman"/>
+<meta name="date" content="2008-01-25T16:14:20-0800"/>
+<meta name="keywords" content="linux, kernel development, portland"/>
+<meta name="description" content="Linux Plumbers Conference 2008"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://linuxplumbersconf.wordpress.com/feed/" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+<meta http-equiv="content-style-type" content="text/css"/>
+<meta http-equiv="expires" content="0"/>
+<link href="../../style/main.css" type="text/css" rel="stylesheet"/>
+<link rel="shortcut icon" href="http://linuxplumbersconf.org/favicon.ico" />
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2670712-1";
+urchinTracker();
+</script>
+</head>
+<body>
+
+<div id="wrapper">
+
+  <div id="header"><a href="../../index.html"><img src="../../images/banner.png" border="none" alt="Linux Plumbers Conference"/></a></div>
+
+    <div id="container">
+       <div id="left">
+             
+        <ul id="nav">
+
+	
+        <li id="program"><a href="../schedule/index.html">Program</a></li>
+	        <li class="sub"id="schedule"><a href="../schedule/index.html">&raquo;Schedule</a></li>
+        <li class="sub" id="microconfs"><a href="../microconfs/index.html">&raquo;Microconfs</a></li>
+        <li class="sub" id="bofs"><a href="http://wiki.linuxplumbersconf.org/bofschedule">&raquo;BoFs</a></li>
+        <li class="sub" id="speakers"><a href="index.html">&raquo;Speakers</a></li>
+        <li class="sub" id="students"><a href="../students/index.html">&raquo;Students</a></li> 
+	        <li id="cfp"><a href="../../cfp/index.html">CFP</a></li>
+        <li id="register"><a href="../../register/index.html">Register</a></li>
+	        <li id="venue"><a href="../../venue/index.html">Venue</a></li>
+	        <li id="contact"><a href="../../contact/index.html">Contact</a></li>
+        <li id="planet"><a href="http://planet.linuxplumbersconf.org">Planet</a></li>
+        <li id="wiki"><a href="http://wiki.linuxplumbersconf.org">Wiki</a></li>
+        <li id="organizers"><a href="../../organizers/index.html">Organizers</a></li>
+
+        </ul>
+	<div id="sponsors">
+        <h3>Sponsors</h3>
+        <h4>Platinum Sponsors</h4>
+        <ul> 
+        <li><a href="http://intel.com"><img src="../../images/intel_logo.png" border="none"  alt="Intel"/></a></li>
+        <li><a href="http://ibm.com"><img src="../../images/IBMtm.png" border="none" alt="IBM"/></a></li> 
+	</ul>
+        <h4>Gold Sponsors</h4>
+        <ul>
+        <li><a href="http://www.netapp.com/us/"><img src="../../images/netapp.png" border="none" alt="NetApp"/></a></li>       
+	</ul>
+        <h4>Silver Sponsors</h4>
+        <ul>
+         <li><a href="http://hp.com"><img src="../../images/hp_logo.gif" border="none" alt="HP"/></a></li>               
+       <li><a href="http://google.com"><img src="../../images/google_logo.gif" border="none"  alt="Google"/></a></li>               
+       <li><a href="http://mvista.com"><img src="../../images/mv-logo.png" border="none"  alt="MontaVista"/></a></li>               
+       <li><a href="http://sandisk.com"><img src="../../images/sandisk-logo.png" border="none"  alt="Sandisk"/></a></li>               
+       </ul>
+
+        <h4>Collaborators</h4>
+        <ul>
+	<li><a href="http://www.cs.pdx.edu/"><img src="../../images/psu_logo.gif" border="none" alt="Portland State University"/></a></li>
+	<li><a href="http://linux-foundation.org/"><img src="../../images/lflogo.png" border="none"  alt="Linux Foundation"/></a></li>                    
+	</ul>
+
+        <h4>Press Partners</h4>
+        <ul>
+	<li><a href="http://www.linuxjournal.com/"><img src="../../images/ljcolor.png" border="none" alt="Linux Journal"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://lwn.net/"><img src="../../images/lwnlogo.png" border="none" alt="Linux Weekly News"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://www.linuxpromagazine.com/"><img src="../../images/LinuxPro-logo.png" border="none" alt="Linux Pro Magazine"/></a></li>
+	</ul>
+
+        <h4>Sponsorship opportunities</h4>
+
+	For more information on sponsorship opportunities, please contact <a
+	href="mailto:angela@linux-foundation.org">Angela Brown</a>. Linux Plumbers Conf <a href="../../sponsors/index.html">sponsorship
+	packages</a>.
+
+	</div>
+
+      </div>
+      
+      <div id="hotnews">
+   	<h4>Hot news</h4>&nbsp; &raquo;
+	<ul><li><a href="../../register/index.html">LPC registration closes Friday</a></li>&bull;
+	<li><a href="index.html">Speakers announced</a></li></ul>
+	</div>
+      
+
+<div id="center">
+
+<h2><b>Linux Data Integrity
+</b> - Martin K. Petersen
+</h2>
+<h3>Biography</h3>
+<p> Martin K. Petersen has been involved in Linux development since the early
+
+nineties. He has worked on PA-RISC and IA-64 Linux ports for HP as well as the
+
+XFS filesystem and the Altix kernel for SGI.  Martin works in Oracle's Linux
+
+Kernel Engineering group where he focuses on enterprise storage technologies.
+
+</p>
+
+<h3>Abstract</h3>
+<p>
+
+
+
+A recent addition to the SCSI protocol called DIF allows protection
+
+information to be exchanged between controller and disk.  Each sector
+
+of the I/O can be augmented with a blob of integrity metadata which
+
+includes a checksum and some knobs that ensure that each portion of
+
+the I/O is written in order and to the right place on disk.  The SCSI
+
+controller generates the integrity metadata, and disk arrays and
+
+harddrives can verify that the I/O is intact before they write it and
+
+acknowlege the request.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+Oracle has worked with several industry partners to extend this
+
+capability so that it is now possible to transfer the integrity
+
+metadata to and from system memory.  This allows the integrity
+
+metadata to be prepared by for example the filesystem and submitted
+
+with the request to the lower layers.  The core of the data integrity
+
+infrastructure was included in the upstream kernel during the 2.6.27
+
+merge window.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+The next step is figuring out how to expose the integrity metadata to
+
+user applications.  Ideally, the checksums would be generated in close
+
+proximity to the original data within the user application context.
+
+And the application (or library) would know what to do in case an
+
+error got returned from the I/O subsystem.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+The traditional UNIX programming API emerged from the following usage
+
+model:
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+   cat foo | frob | mangle > bar
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+An error would cause the pipeline to break, causing the operator at
+
+the teletype to fix the problem and reissue the commands.  Each
+
+program did one simple thing and its lifetime was short.
+
+Consequently, returning -EIO and deferring error handling to the
+
+operating system/operator was reasonable behavior.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+These days applications run for days/weeks/months/years and few of
+
+them are simple filters working on byte streams.  Furthermore, the
+
+data input into these programs is no longer a reproducible result of
+
+the preceding command in the pipeline.  The data is generated within
+
+the context of the application using input from the user and the
+
+network.  This means that if committing the write to permanent storage
+
+fails for whatever reason, the data is essentially lost.  It has
+
+become imperative to ensure that data is safely and correctly written.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+Given the limitations of POSIX read()/write() and friends, how to we
+
+implement a more rugged and data integrity-aware I/O submission
+
+interface?  Preferably one that's close enough to the existing API
+
+that it stands a chance of becoming successful?  The POSIX async I/O
+
+API does provide some of the required features but hardly anybody use
+
+it.  And Linux implements it poorly.  So where do we go from here?
+
+
+
+</p>
+
+
+</div>
+
+    <div id="right">
+<ul>
+
+<li><img src="../../images/sidebar/river.jpg" alt="Willamette River""/></li>
+
+<li><img src="../../images/sidebar/ahockley-MAX.jpg" alt="MAX"/></li>
+
+<li><img src="../../images/sidebar/Josh_Bashcroft-IgniteBagdad.jpg" alt="Baghdad Theatre"/></li>
+
+<li><img src="../../images/sidebar/coffee.jpg" alt="Coffee"/></li>
+
+<li><img src="../../images/sidebar/Tom_Harpel-Powells.jpg" alt="Powell's"/></li>
+
+
+<li><img src="../../images/sidebar/minntyfresh-Beer.jpg" alt="Beer"/></li>
+
+
+</ul>
+</div>
+<div class="clearer"> </div>
+    </div>
+
+<div id="footer">
+                 
+<div id="footer_navcontainer">        
+<ul id="footer_navlist">
+<li><a href="../../contact/index.html">Contact</a></li>
+<li><a href="../../organizers/index.html">Organizers</a></li>
+<li><a href="../../sitenotes/index.html">Site Notes</a></li>
+<li><a href="http://lists.osuosl.org/mailman/listinfo/announce">Mailing List</a></li>
+</ul>
+<a href="http://osuosl.org"><img border="0" src="../../images/osl-hosted.png" alt="OSL"/></a>
+</div>
+
+</div>
+</div>   
+
+
+
+</body>
+</html>

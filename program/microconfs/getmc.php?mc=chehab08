@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Linux Plumbers Conference 2008</title>
+<meta name="author" content="Jennifer Redman"/>
+<meta name="date" content="2008-01-25T16:14:20-0800"/>
+<meta name="keywords" content="linux, kernel development, portland"/>
+<meta name="description" content="Linux Plumbers Conference 2008"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://linuxplumbersconf.wordpress.com/feed/" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+<meta http-equiv="content-style-type" content="text/css"/>
+<meta http-equiv="expires" content="0"/>
+<link href="../../style/main.css" type="text/css" rel="stylesheet"/>
+<link rel="shortcut icon" href="http://linuxplumbersconf.org/favicon.ico" />
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2670712-1";
+urchinTracker();
+</script>
+</head>
+<body>
+
+<div id="wrapper">
+
+  <div id="header"><a href="../../index.html"><img src="../../images/banner.png" border="none" alt="Linux Plumbers Conference"/></a></div>
+
+    <div id="container">
+       <div id="left">
+             
+        <ul id="nav">
+
+	
+        <li id="program"><a href="../schedule/index.html">Program</a></li>
+	        <li class="sub"id="schedule"><a href="../schedule/index.html">&raquo;Schedule</a></li>
+        <li class="sub" id="microconfs"><a href="index.html">&raquo;Microconfs</a></li>
+        <li class="sub" id="bofs"><a href="http://wiki.linuxplumbersconf.org/bofschedule">&raquo;BoFs</a></li>
+        <li class="sub" id="speakers"><a href="../speakers/index.html">&raquo;Speakers</a></li>
+        <li class="sub" id="students"><a href="../students/index.html">&raquo;Students</a></li> 
+	        <li id="cfp"><a href="../../cfp/index.html">CFP</a></li>
+        <li id="register"><a href="../../register/index.html">Register</a></li>
+	        <li id="venue"><a href="../../venue/index.html">Venue</a></li>
+	        <li id="contact"><a href="../../contact/index.html">Contact</a></li>
+        <li id="planet"><a href="http://planet.linuxplumbersconf.org">Planet</a></li>
+        <li id="wiki"><a href="http://wiki.linuxplumbersconf.org">Wiki</a></li>
+        <li id="organizers"><a href="../../organizers/index.html">Organizers</a></li>
+
+        </ul>
+	<div id="sponsors">
+        <h3>Sponsors</h3>
+        <h4>Platinum Sponsors</h4>
+        <ul> 
+        <li><a href="http://intel.com"><img src="../../images/intel_logo.png" border="none"  alt="Intel"/></a></li>
+        <li><a href="http://ibm.com"><img src="../../images/IBMtm.png" border="none" alt="IBM"/></a></li> 
+	</ul>
+        <h4>Gold Sponsors</h4>
+        <ul>
+        <li><a href="http://www.netapp.com/us/"><img src="../../images/netapp.png" border="none" alt="NetApp"/></a></li>       
+	</ul>
+        <h4>Silver Sponsors</h4>
+        <ul>
+         <li><a href="http://hp.com"><img src="../../images/hp_logo.gif" border="none" alt="HP"/></a></li>               
+       <li><a href="http://google.com"><img src="../../images/google_logo.gif" border="none"  alt="Google"/></a></li>               
+       <li><a href="http://mvista.com"><img src="../../images/mv-logo.png" border="none"  alt="MontaVista"/></a></li>               
+       <li><a href="http://sandisk.com"><img src="../../images/sandisk-logo.png" border="none"  alt="Sandisk"/></a></li>               
+       </ul>
+
+        <h4>Collaborators</h4>
+        <ul>
+	<li><a href="http://www.cs.pdx.edu/"><img src="../../images/psu_logo.gif" border="none" alt="Portland State University"/></a></li>
+	<li><a href="http://linux-foundation.org/"><img src="../../images/lflogo.png" border="none"  alt="Linux Foundation"/></a></li>                    
+	</ul>
+
+        <h4>Press Partners</h4>
+        <ul>
+	<li><a href="http://www.linuxjournal.com/"><img src="../../images/ljcolor.png" border="none" alt="Linux Journal"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://lwn.net/"><img src="../../images/lwnlogo.png" border="none" alt="Linux Weekly News"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://www.linuxpromagazine.com/"><img src="../../images/LinuxPro-logo.png" border="none" alt="Linux Pro Magazine"/></a></li>
+	</ul>
+
+        <h4>Sponsorship opportunities</h4>
+
+	For more information on sponsorship opportunities, please contact <a
+	href="mailto:angela@linux-foundation.org">Angela Brown</a>. Linux Plumbers Conf <a href="../../sponsors/index.html">sponsorship
+	packages</a>.
+
+	</div>
+
+      </div>
+      
+      <div id="hotnews">
+   	<h4>Hot news</h4>&nbsp; &raquo;
+	<ul><li><a href="../../register/index.html">LPC registration closes Friday</a></li>&bull;
+	<li><a href="../speakers/index.html">Speakers announced</a></li></ul>
+	</div>
+      
+
+<div id="center">
+
+
+
+
+<h2><a name="video_input_infrastructure" id="video_input_infrastructure">Video Input Infrastructure</a></h2>
+<div class="level2">
+
+<p>
+
+Linux currently have two modern kernel-userspace <acronym title="Application Programming Interface">API</acronym>&#039;s for handing video input devices: V4L2 <acronym title="Application Programming Interface">API</acronym> for video streams and radio and DVB <acronym title="Application Programming Interface">API</acronym> for digital TV reception. Due to the complexity and diversity of different devices, and due to the large amount of formats and standards handled by those <acronym title="Application Programming Interface">API</acronym>&#039;s, this infrastructure needs to evolve to better fit other devices. Also, a good userspace device library is the key of the success for having userspace applications to be able to work with all formats supported by those devices.
+</p>
+
+<p>
+This Miniconf will discuss the evolution of V4L and DVB <acronym title="Application Programming Interface">API</acronym>&#039;s to handle the current and future needs, underling the userspace improvements to reduce device/application non-compliances. 
+</p>
+
+</div>
+<!-- SECTION "Video Input Infrastructure" [1-753] -->
+<h2><a name="video_input_infrastructure_schedule" id="video_input_infrastructure_schedule">Video Input Infrastructure Schedule</a></h2>
+<div class="level2">
+
+<p>
+
+<strong>Total time: 2 hr 30 min</strong>
+
+</p>
+<table class="inline">
+	<tr class="row0">
+		<th class="col0"> Time </th><th class="col1"> Session </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0"> 0:00 </td><td class="col1"> Presentation 1: <a href="http://linuxtv.org/downloads/plumbers2008/mchehab_v4l_dvb_status_quo.pdf" class="urlextern" title="http://linuxtv.org/downloads/plumbers2008/mchehab_v4l_dvb_status_quo.pdf"  rel="nofollow">Mauro Carvalho Chehab: Video Input Status Quo</a> </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> 0:15 </td><td class="col1"> Presentation 2: <a href="http://www.linuxtv.org/downloads/plumbers2008/hverkuil_v4l2.pdf" class="urlextern" title="http://www.linuxtv.org/downloads/plumbers2008/hverkuil_v4l2.pdf"  rel="nofollow">Hans Verkuil: Extending V4L2 to support complex media streaming devices</a> </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0"> 0:40 </td><td class="col1"> Presentation 3: <a href="http://linuxplumbersconf.org/doku.php?id=hans_de_goede:v4l2_library" class="wikilink2" title="hans_de_goede:v4l2_library" rel="nofollow"> V4L2 Library</a> </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0"> 1:05 </td><td class="col1"> Presentation 4: <a href="http://linuxtv.org/downloads/plumbers2008/bphilips_v4luserspace.pdf" class="urlextern" title="http://linuxtv.org/downloads/plumbers2008/bphilips_v4luserspace.pdf"  rel="nofollow">Brandon Philips: The video4linux user-space: libv4l2, applications and a server</a> </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0"> 1:30 </td><td class="col1"> Break </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0"> 1:45 </td><td class="col1"> Discussion/Round Table: Support for missing digital standards: DVB-H, ISDB, etc <br/>
+ <a href="http://linuxtv.org/downloads/plumbers2008/mchehab_v4l_dvb_round_table_intro.pdf" class="urlextern" title="http://linuxtv.org/downloads/plumbers2008/mchehab_v4l_dvb_round_table_intro.pdf"  rel="nofollow">Introdution</a> <br/>
+ <a href="http://www.linuxtv.org/downloads/plumbers2008/stoth_dvb_round_table_new_api.pdf" class="urlextern" title="http://www.linuxtv.org/downloads/plumbers2008/stoth_dvb_round_table_new_api.pdf"  rel="nofollow">New API proposals</a> </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0"> 2:15 </td><td class="col1"> Next Steps (by MC Runner) </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0"> 2:30 </td><td class="col1"> End </td>
+	</tr>
+</table>
+
+</div>
+<!-- SECTION "Video Input Infrastructure Schedule" [754-] -->	
+</div>
+
+    <div id="right">
+<ul>
+
+<li><img src="../../images/sidebar/river.jpg" alt="Willamette River""/></li>
+
+<li><img src="../../images/sidebar/ahockley-MAX.jpg" alt="MAX"/></li>
+
+<li><img src="../../images/sidebar/Josh_Bashcroft-IgniteBagdad.jpg" alt="Baghdad Theatre"/></li>
+
+<li><img src="../../images/sidebar/coffee.jpg" alt="Coffee"/></li>
+
+<li><img src="../../images/sidebar/Tom_Harpel-Powells.jpg" alt="Powell's"/></li>
+
+
+<li><img src="../../images/sidebar/minntyfresh-Beer.jpg" alt="Beer"/></li>
+
+
+</ul>
+</div>
+<div class="clearer"> </div>
+    </div>
+
+<div id="footer">
+                 
+<div id="footer_navcontainer">        
+<ul id="footer_navlist">
+<li><a href="../../contact/index.html">Contact</a></li>
+<li><a href="../../organizers/index.html">Organizers</a></li>
+<li><a href="../../sitenotes/index.html">Site Notes</a></li>
+<li><a href="http://lists.osuosl.org/mailman/listinfo/announce">Mailing List</a></li>
+</ul>
+<a href="http://osuosl.org"><img border="0" src="../../images/osl-hosted.png" alt="OSL"/></a>
+</div>
+
+</div>
+</div>   
+
+
+
+</body>
+</html>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Linux Plumbers Conference 2008</title>
+<meta name="author" content="Jennifer Redman"/>
+<meta name="date" content="2008-01-25T16:14:20-0800"/>
+<meta name="keywords" content="linux, kernel development, portland"/>
+<meta name="description" content="Linux Plumbers Conference 2008"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://linuxplumbersconf.wordpress.com/feed/" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+<meta http-equiv="content-style-type" content="text/css"/>
+<meta http-equiv="expires" content="0"/>
+<link href="../../style/main.css" type="text/css" rel="stylesheet"/>
+<link rel="shortcut icon" href="http://linuxplumbersconf.org/favicon.ico" />
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2670712-1";
+urchinTracker();
+</script>
+</head>
+<body>
+
+<div id="wrapper">
+
+  <div id="header"><a href="../../index.html"><img src="../../images/banner.png" border="none" alt="Linux Plumbers Conference"/></a></div>
+
+    <div id="container">
+       <div id="left">
+             
+        <ul id="nav">
+
+	
+        <li id="program"><a href="../schedule/index.html">Program</a></li>
+	        <li class="sub"id="schedule"><a href="../schedule/index.html">&raquo;Schedule</a></li>
+        <li class="sub" id="microconfs"><a href="../microconfs/index.html">&raquo;Microconfs</a></li>
+        <li class="sub" id="bofs"><a href="http://wiki.linuxplumbersconf.org/bofschedule">&raquo;BoFs</a></li>
+        <li class="sub" id="speakers"><a href="index.html">&raquo;Speakers</a></li>
+        <li class="sub" id="students"><a href="../students/index.html">&raquo;Students</a></li> 
+	        <li id="cfp"><a href="../../cfp/index.html">CFP</a></li>
+        <li id="register"><a href="../../register/index.html">Register</a></li>
+	        <li id="venue"><a href="../../venue/index.html">Venue</a></li>
+	        <li id="contact"><a href="../../contact/index.html">Contact</a></li>
+        <li id="planet"><a href="http://planet.linuxplumbersconf.org">Planet</a></li>
+        <li id="wiki"><a href="http://wiki.linuxplumbersconf.org">Wiki</a></li>
+        <li id="organizers"><a href="../../organizers/index.html">Organizers</a></li>
+
+        </ul>
+	<div id="sponsors">
+        <h3>Sponsors</h3>
+        <h4>Platinum Sponsors</h4>
+        <ul> 
+        <li><a href="http://intel.com"><img src="../../images/intel_logo.png" border="none"  alt="Intel"/></a></li>
+        <li><a href="http://ibm.com"><img src="../../images/IBMtm.png" border="none" alt="IBM"/></a></li> 
+	</ul>
+        <h4>Gold Sponsors</h4>
+        <ul>
+        <li><a href="http://www.netapp.com/us/"><img src="../../images/netapp.png" border="none" alt="NetApp"/></a></li>       
+	</ul>
+        <h4>Silver Sponsors</h4>
+        <ul>
+         <li><a href="http://hp.com"><img src="../../images/hp_logo.gif" border="none" alt="HP"/></a></li>               
+       <li><a href="http://google.com"><img src="../../images/google_logo.gif" border="none"  alt="Google"/></a></li>               
+       <li><a href="http://mvista.com"><img src="../../images/mv-logo.png" border="none"  alt="MontaVista"/></a></li>               
+       <li><a href="http://sandisk.com"><img src="../../images/sandisk-logo.png" border="none"  alt="Sandisk"/></a></li>               
+       </ul>
+
+        <h4>Collaborators</h4>
+        <ul>
+	<li><a href="http://www.cs.pdx.edu/"><img src="../../images/psu_logo.gif" border="none" alt="Portland State University"/></a></li>
+	<li><a href="http://linux-foundation.org/"><img src="../../images/lflogo.png" border="none"  alt="Linux Foundation"/></a></li>                    
+	</ul>
+
+        <h4>Press Partners</h4>
+        <ul>
+	<li><a href="http://www.linuxjournal.com/"><img src="../../images/ljcolor.png" border="none" alt="Linux Journal"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://lwn.net/"><img src="../../images/lwnlogo.png" border="none" alt="Linux Weekly News"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://www.linuxpromagazine.com/"><img src="../../images/LinuxPro-logo.png" border="none" alt="Linux Pro Magazine"/></a></li>
+	</ul>
+
+        <h4>Sponsorship opportunities</h4>
+
+	For more information on sponsorship opportunities, please contact <a
+	href="mailto:angela@linux-foundation.org">Angela Brown</a>. Linux Plumbers Conf <a href="../../sponsors/index.html">sponsorship
+	packages</a>.
+
+	</div>
+
+      </div>
+      
+      <div id="hotnews">
+   	<h4>Hot news</h4>&nbsp; &raquo;
+	<ul><li><a href="../../register/index.html">LPC registration closes Friday</a></li>&bull;
+	<li><a href="index.html">Speakers announced</a></li></ul>
+	</div>
+      
+
+<div id="center">
+
+<h2><b>Kernel support for user debugging: ptrace, utrace, and what's next
+</b> - Roland McGrath (Red Hat)
+</h2>
+<h3>Biography</h3>
+<p>Roland McGrath first contributed code to the free software community
+
+when he posted the "catname" patch for Hack 1.0.3 to Usenet.  He
+
+went on to start hacking for the GNU Project in 1987 and worked
+
+there full-time between 1989 and 1996.  Later he was involved in
+
+research on operating systems for the University of Utah and MIT.
+
+He has always worked on development tools and operating systems, and
+
+has contributed to a variety of free software projects.  In 2002 he
+
+joined Red Hat, where his work began to include development of the
+
+Linux kernel.  He has since participated in kernel work on NPTL,
+
+vDSO, signals, core dumps, and ptrace.</p>
+
+<h3>Abstract</h3>
+<p>
+
+
+
+Every developer wants better tools to debug their applications.
+
+These tools rely on the kernel for the means to control and examine
+
+other user processes.  The main Linux facility for this is ptrace.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+The ptrace interface has proven difficult for tool developers.  Its
+
+problems have stifled the ease of creating novel tools and
+
+components to expand the debugging and tracing landscape, and have
+
+often made maintenance and extension of existing tools difficult.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+Meanwhile, the existing ptrace kernel internals have long been a
+
+source of difficult bugs and a thorn in the side of kernel
+
+maintainers.  This code has been difficult for many maintainers,
+
+leaving architecture support code and all ptrace code often
+
+neglected and abandoned as a quagmire.  Those interested in better
+
+debugging facilities have found it difficult to make progress.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+This talk will first briefly describe the main problems with the
+
+ptrace interface from the user perspective, and conclude that ptrace
+
+has nothing left to offer.  It will then move to in-kernel issues of
+
+concern to kernel developers and architecture maintainers, quickly
+
+listing problems with the old code.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+The primary focus of the talk will be recent work to improve the
+
+picture inside the kernel, going from the bottom up.  In each area,
+
+it can delve into as much technical detail as the audience wants.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+First steps establish uniform interfaces for architecture code.  The
+
+user_regset interface and other cleanups went into 2.6.25 and 2.6.26
+
+kernels.  These and other new internal API additions will complete
+
+the new definition of what each architecture's code can do to get
+
+the most out of any new tracing and debugging features.  The talk
+
+will cover everything an architecture maintainer needs to know to
+
+make new features available to users and keep those features'
+
+details out of the maintainer's hair.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+Next, work (not yet integrated) that completes the cleanup of all
+
+interactions between the core kernel and the implementation of
+
+tracing and debugging.  This fully documents the requirements and
+
+expectations of each hook into the core and architecture code,
+
+making debugging features tractable without knowledge of many
+
+corners of the kernel.  For kernel and architecture maintainers not
+
+interested in these features, it draws the line past which they need
+
+not consider the details.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+The presentation of current work concludes with utrace.  This
+
+baseline of low-level tracing and control features on user threads
+
+is exported as a new API for kernel modules.  Analogous to the block
+
+layer below filesystems, it provides a platform on which to build
+
+debugging and tracing features efficiently and safely, and lets
+
+separate features coexist well.  This work hopes to open the field
+
+for casual kernel developers to work on new features in this area.
+
+The talk will explain the utrace API in full.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+Finally, we'll discuss some work in progress and ideas for new
+
+things built on utrace, including user-level interfaces for
+
+debuggers to use in place of ptrace.
+
+
+
+</p>
+
+
+</div>
+
+    <div id="right">
+<ul>
+
+<li><img src="../../images/sidebar/river.jpg" alt="Willamette River""/></li>
+
+<li><img src="../../images/sidebar/ahockley-MAX.jpg" alt="MAX"/></li>
+
+<li><img src="../../images/sidebar/Josh_Bashcroft-IgniteBagdad.jpg" alt="Baghdad Theatre"/></li>
+
+<li><img src="../../images/sidebar/coffee.jpg" alt="Coffee"/></li>
+
+<li><img src="../../images/sidebar/Tom_Harpel-Powells.jpg" alt="Powell's"/></li>
+
+
+<li><img src="../../images/sidebar/minntyfresh-Beer.jpg" alt="Beer"/></li>
+
+
+</ul>
+</div>
+<div class="clearer"> </div>
+    </div>
+
+<div id="footer">
+                 
+<div id="footer_navcontainer">        
+<ul id="footer_navlist">
+<li><a href="../../contact/index.html">Contact</a></li>
+<li><a href="../../organizers/index.html">Organizers</a></li>
+<li><a href="../../sitenotes/index.html">Site Notes</a></li>
+<li><a href="http://lists.osuosl.org/mailman/listinfo/announce">Mailing List</a></li>
+</ul>
+<a href="http://osuosl.org"><img border="0" src="../../images/osl-hosted.png" alt="OSL"/></a>
+</div>
+
+</div>
+</div>   
+
+
+
+</body>
+</html>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Linux Plumbers Conference 2008</title>
+<meta name="author" content="Jennifer Redman"/>
+<meta name="date" content="2008-01-25T16:14:20-0800"/>
+<meta name="keywords" content="linux, kernel development, portland"/>
+<meta name="description" content="Linux Plumbers Conference 2008"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://linuxplumbersconf.wordpress.com/feed/" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+<meta http-equiv="content-style-type" content="text/css"/>
+<meta http-equiv="expires" content="0"/>
+<link href="../../style/main.css" type="text/css" rel="stylesheet"/>
+<link rel="shortcut icon" href="http://linuxplumbersconf.org/favicon.ico" />
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2670712-1";
+urchinTracker();
+</script>
+</head>
+<body>
+
+<div id="wrapper">
+
+  <div id="header"><a href="../../index.html"><img src="../../images/banner.png" border="none" alt="Linux Plumbers Conference"/></a></div>
+
+    <div id="container">
+       <div id="left">
+             
+        <ul id="nav">
+
+	
+        <li id="program"><a href="../schedule/index.html">Program</a></li>
+	        <li class="sub"id="schedule"><a href="../schedule/index.html">&raquo;Schedule</a></li>
+        <li class="sub" id="microconfs"><a href="../microconfs/index.html">&raquo;Microconfs</a></li>
+        <li class="sub" id="bofs"><a href="http://wiki.linuxplumbersconf.org/bofschedule">&raquo;BoFs</a></li>
+        <li class="sub" id="speakers"><a href="index.html">&raquo;Speakers</a></li>
+        <li class="sub" id="students"><a href="../students/index.html">&raquo;Students</a></li> 
+	        <li id="cfp"><a href="../../cfp/index.html">CFP</a></li>
+        <li id="register"><a href="../../register/index.html">Register</a></li>
+	        <li id="venue"><a href="../../venue/index.html">Venue</a></li>
+	        <li id="contact"><a href="../../contact/index.html">Contact</a></li>
+        <li id="planet"><a href="http://planet.linuxplumbersconf.org">Planet</a></li>
+        <li id="wiki"><a href="http://wiki.linuxplumbersconf.org">Wiki</a></li>
+        <li id="organizers"><a href="../../organizers/index.html">Organizers</a></li>
+
+        </ul>
+	<div id="sponsors">
+        <h3>Sponsors</h3>
+        <h4>Platinum Sponsors</h4>
+        <ul> 
+        <li><a href="http://intel.com"><img src="../../images/intel_logo.png" border="none"  alt="Intel"/></a></li>
+        <li><a href="http://ibm.com"><img src="../../images/IBMtm.png" border="none" alt="IBM"/></a></li> 
+	</ul>
+        <h4>Gold Sponsors</h4>
+        <ul>
+        <li><a href="http://www.netapp.com/us/"><img src="../../images/netapp.png" border="none" alt="NetApp"/></a></li>       
+	</ul>
+        <h4>Silver Sponsors</h4>
+        <ul>
+         <li><a href="http://hp.com"><img src="../../images/hp_logo.gif" border="none" alt="HP"/></a></li>               
+       <li><a href="http://google.com"><img src="../../images/google_logo.gif" border="none"  alt="Google"/></a></li>               
+       <li><a href="http://mvista.com"><img src="../../images/mv-logo.png" border="none"  alt="MontaVista"/></a></li>               
+       <li><a href="http://sandisk.com"><img src="../../images/sandisk-logo.png" border="none"  alt="Sandisk"/></a></li>               
+       </ul>
+
+        <h4>Collaborators</h4>
+        <ul>
+	<li><a href="http://www.cs.pdx.edu/"><img src="../../images/psu_logo.gif" border="none" alt="Portland State University"/></a></li>
+	<li><a href="http://linux-foundation.org/"><img src="../../images/lflogo.png" border="none"  alt="Linux Foundation"/></a></li>                    
+	</ul>
+
+        <h4>Press Partners</h4>
+        <ul>
+	<li><a href="http://www.linuxjournal.com/"><img src="../../images/ljcolor.png" border="none" alt="Linux Journal"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://lwn.net/"><img src="../../images/lwnlogo.png" border="none" alt="Linux Weekly News"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://www.linuxpromagazine.com/"><img src="../../images/LinuxPro-logo.png" border="none" alt="Linux Pro Magazine"/></a></li>
+	</ul>
+
+        <h4>Sponsorship opportunities</h4>
+
+	For more information on sponsorship opportunities, please contact <a
+	href="mailto:angela@linux-foundation.org">Angela Brown</a>. Linux Plumbers Conf <a href="../../sponsors/index.html">sponsorship
+	packages</a>.
+
+	</div>
+
+      </div>
+      
+      <div id="hotnews">
+   	<h4>Hot news</h4>&nbsp; &raquo;
+	<ul><li><a href="../../register/index.html">LPC registration closes Friday</a></li>&bull;
+	<li><a href="index.html">Speakers announced</a></li></ul>
+	</div>
+      
+
+<div id="center">
+
+<h2><b>Physical PCI slots: A little bit goes a long way
+</b> - Alex Chiang
+</h2>
+<h3>Biography</h3>
+<p>Alex Chiang is the shortest kernel developer in the HP Open Source
+
+and Linux Organization in Fort Collins, Colorado.  He has been known
+
+to submit various hacky patches related to ACPI, PCI, ia64, and
+
+crfs.  He toiled in the HP-UX salt mines until a fairy penguin led
+
+him through the tunnels to his freedom in 2007.  In his spare time,
+
+he enjoys scaring himself pantsless in the Colorado high country.</p>
+
+<h3>Abstract</h3>
+<p>
+
+Recently, PCI slots gained first-class citizenship, and on ACPI
+
+enabled systems, the pci_slot driver can expose them in sysfs.  The
+
+information provided by this simple driver has surprisingly powerful
+
+implications for fundamental user tasks.</p>
+
+
+
+<p>Some basic problems can occur during OS installation.  The network
+
+interface used to download the install kernel and ramdisk from the
+
+boot server may not be the same interface used by the installer to
+
+download the rest of the OS image [1].  This problem is especially
+
+prevalent on large, scale-up systems with many network ports where
+
+only a few have link.</p>
+
+
+
+<p>Another installation issue occurs on systems with multiple OS images
+
+installed on various forms of storage, connected to a plethora of
+
+HBAs.  Although this situation is unlikely to occur in a production
+
+environment, it is quite common for a kernel developer.  Installing
+
+onto the wrong disk and blowing away an environment that finally
+
+reproduces a bug is possibly one of the worst feelings caused by
+
+technology, ever.</p>
+
+
+
+<p>Troublesome hardware presents its own issues.  Currently, there is
+
+no way to know into which physical slot a PCI card is inserted.
+
+During normal use, this lack of knowledge is mysterious but benign.
+
+However, if a card starts failing, the user wants to know quickly
+
+which device to replace, and the lack of a physical slot mapping
+
+forces the user to consult installation records in the best case,
+
+and perform a binary yank-and-see search in the worst case.</p>
+
+
+
+<p>All of these problems can be solved by hooking up various userspace
+
+tools to take advantage of the pci_slot driver.</p>
+
+
+
+<ul>
+
+<li>Installers such as anaconda could present physical slot
+
+information for NICs or HBAs and reduce much sysadmin
+
+heartburn</li>
+
+
+
+<li>lspci, lsscsi, and friends could be extended to display
+
+the physical slot number to aid hardware troubleshooting,
+
+or simply mitigate the existential crisis of not knowing
+
+exactly what card /dev/sda might be hooked up to</li>
+
+
+
+<li>udev scripts could be written, reducing the number of
+
+systems that require pci=bfsort to obtain a sane mapping
+
+between kernel device names and silk-screened chassis labels</li>
+
+
+
+</ul>
+
+
+
+<p>This talk aims to:</p>
+
+<ul>
+
+<li>quickly discuss the above use cases</li>
+
+
+
+<li>briefly describe the effort required by system vendors to
+
+provide this information</li>
+
+
+
+<li>spend the majority of the time discussing other ways that
+
+userspace can leverage this new knowledge.</li>
+
+
+
+</ul>
+
+
+
+<p>Finally, the author notes that although the underlying implementation
+
+behind this proposal is ACPI based, a new driver could be written to
+
+take advantage of the new PCI slot infrastructure and recent Type 9
+
+extensions in SMBIOS that provides the same functionality.[2]</p>
+
+
+
+
+
+<h3>References</h3>
+
+<p>1.  Robert Hentosh and Matt Domsch, Linux Enumeration of NICs, 2007
+
+http://linux.dell.com/files/whitepapers/nic-enum-whitepaper-v3.pdf</p>
+
+
+
+<p>2.  Matt Domsch, Ethernet device naming, 2007
+
+http://direct2dell.com/one2one/archive/2007/07/30/22883.aspx</p>
+
+
+</div>
+
+    <div id="right">
+<ul>
+
+<li><img src="../../images/sidebar/river.jpg" alt="Willamette River""/></li>
+
+<li><img src="../../images/sidebar/ahockley-MAX.jpg" alt="MAX"/></li>
+
+<li><img src="../../images/sidebar/Josh_Bashcroft-IgniteBagdad.jpg" alt="Baghdad Theatre"/></li>
+
+<li><img src="../../images/sidebar/coffee.jpg" alt="Coffee"/></li>
+
+<li><img src="../../images/sidebar/Tom_Harpel-Powells.jpg" alt="Powell's"/></li>
+
+
+<li><img src="../../images/sidebar/minntyfresh-Beer.jpg" alt="Beer"/></li>
+
+
+</ul>
+</div>
+<div class="clearer"> </div>
+    </div>
+
+<div id="footer">
+                 
+<div id="footer_navcontainer">        
+<ul id="footer_navlist">
+<li><a href="../../contact/index.html">Contact</a></li>
+<li><a href="../../organizers/index.html">Organizers</a></li>
+<li><a href="../../sitenotes/index.html">Site Notes</a></li>
+<li><a href="http://lists.osuosl.org/mailman/listinfo/announce">Mailing List</a></li>
+</ul>
+<a href="http://osuosl.org"><img border="0" src="../../images/osl-hosted.png" alt="OSL"/></a>
+</div>
+
+</div>
+</div>   
+
+
+
+</body>
+</html>

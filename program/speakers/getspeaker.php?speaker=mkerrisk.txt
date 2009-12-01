@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Linux Plumbers Conference 2008</title>
+<meta name="author" content="Jennifer Redman"/>
+<meta name="date" content="2008-01-25T16:14:20-0800"/>
+<meta name="keywords" content="linux, kernel development, portland"/>
+<meta name="description" content="Linux Plumbers Conference 2008"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://linuxplumbersconf.wordpress.com/feed/" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+<meta http-equiv="content-style-type" content="text/css"/>
+<meta http-equiv="expires" content="0"/>
+<link href="../../style/main.css" type="text/css" rel="stylesheet"/>
+<link rel="shortcut icon" href="http://linuxplumbersconf.org/favicon.ico" />
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2670712-1";
+urchinTracker();
+</script>
+</head>
+<body>
+
+<div id="wrapper">
+
+  <div id="header"><a href="../../index.html"><img src="../../images/banner.png" border="none" alt="Linux Plumbers Conference"/></a></div>
+
+    <div id="container">
+       <div id="left">
+             
+        <ul id="nav">
+
+	
+        <li id="program"><a href="../schedule/index.html">Program</a></li>
+	        <li class="sub"id="schedule"><a href="../schedule/index.html">&raquo;Schedule</a></li>
+        <li class="sub" id="microconfs"><a href="../microconfs/index.html">&raquo;Microconfs</a></li>
+        <li class="sub" id="bofs"><a href="http://wiki.linuxplumbersconf.org/bofschedule">&raquo;BoFs</a></li>
+        <li class="sub" id="speakers"><a href="index.html">&raquo;Speakers</a></li>
+        <li class="sub" id="students"><a href="../students/index.html">&raquo;Students</a></li> 
+	        <li id="cfp"><a href="../../cfp/index.html">CFP</a></li>
+        <li id="register"><a href="../../register/index.html">Register</a></li>
+	        <li id="venue"><a href="../../venue/index.html">Venue</a></li>
+	        <li id="contact"><a href="../../contact/index.html">Contact</a></li>
+        <li id="planet"><a href="http://planet.linuxplumbersconf.org">Planet</a></li>
+        <li id="wiki"><a href="http://wiki.linuxplumbersconf.org">Wiki</a></li>
+        <li id="organizers"><a href="../../organizers/index.html">Organizers</a></li>
+
+        </ul>
+	<div id="sponsors">
+        <h3>Sponsors</h3>
+        <h4>Platinum Sponsors</h4>
+        <ul> 
+        <li><a href="http://intel.com"><img src="../../images/intel_logo.png" border="none"  alt="Intel"/></a></li>
+        <li><a href="http://ibm.com"><img src="../../images/IBMtm.png" border="none" alt="IBM"/></a></li> 
+	</ul>
+        <h4>Gold Sponsors</h4>
+        <ul>
+        <li><a href="http://www.netapp.com/us/"><img src="../../images/netapp.png" border="none" alt="NetApp"/></a></li>       
+	</ul>
+        <h4>Silver Sponsors</h4>
+        <ul>
+         <li><a href="http://hp.com"><img src="../../images/hp_logo.gif" border="none" alt="HP"/></a></li>               
+       <li><a href="http://google.com"><img src="../../images/google_logo.gif" border="none"  alt="Google"/></a></li>               
+       <li><a href="http://mvista.com"><img src="../../images/mv-logo.png" border="none"  alt="MontaVista"/></a></li>               
+       <li><a href="http://sandisk.com"><img src="../../images/sandisk-logo.png" border="none"  alt="Sandisk"/></a></li>               
+       </ul>
+
+        <h4>Collaborators</h4>
+        <ul>
+	<li><a href="http://www.cs.pdx.edu/"><img src="../../images/psu_logo.gif" border="none" alt="Portland State University"/></a></li>
+	<li><a href="http://linux-foundation.org/"><img src="../../images/lflogo.png" border="none"  alt="Linux Foundation"/></a></li>                    
+	</ul>
+
+        <h4>Press Partners</h4>
+        <ul>
+	<li><a href="http://www.linuxjournal.com/"><img src="../../images/ljcolor.png" border="none" alt="Linux Journal"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://lwn.net/"><img src="../../images/lwnlogo.png" border="none" alt="Linux Weekly News"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://www.linuxpromagazine.com/"><img src="../../images/LinuxPro-logo.png" border="none" alt="Linux Pro Magazine"/></a></li>
+	</ul>
+
+        <h4>Sponsorship opportunities</h4>
+
+	For more information on sponsorship opportunities, please contact <a
+	href="mailto:angela@linux-foundation.org">Angela Brown</a>. Linux Plumbers Conf <a href="../../sponsors/index.html">sponsorship
+	packages</a>.
+
+	</div>
+
+      </div>
+      
+      <div id="hotnews">
+   	<h4>Hot news</h4>&nbsp; &raquo;
+	<ul><li><a href="../../register/index.html">LPC registration closes Friday</a></li>&bull;
+	<li><a href="index.html">Speakers announced</a></li></ul>
+	</div>
+      
+
+<div id="center">
+
+<h2><b>Who owns the interface?
+</b> - Michael Kerrisk
+</h2>
+<h3>Biography</h3>
+<p>Michael Kerrisk first started programming on Unix systems in 1987. He has
+
+been involved with the Linux man-pages project, which documents the Linux
+
+kernel-userspace and the glibc APIs, since 2000, and has been the project
+
+maintainer since 2004. He is the sole author of nearly 100, and the co-author
+
+of another 65, of the around 850 pages in the man-pages package.  (See
+
+http://www.kernel.org/doc/man-pages/ and
+
+http://linux-man-pages.blogspot.com/.)  In May 2008, he commenced a fellowship
+
+with the Linux Foundation to work full time on man-pages and related work.  As
+
+well as maintaining kernel-userspace API documentation, he is also involved in
+
+testing and design review of new APIs, and has found many bugs in the APIs.
+
+He is currently nearing completion of a book providing a detailed description
+
+of the Linux kernel-userspace API.  </p>
+
+<h3>Abstract</h3>
+<p>
+
+
+
+Traditionally, an interface is owned and defined by the vendor or group
+
+who created it, and if the interface achieves widespread usage, then
+
+eventually ownership may pass to a standards group.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+But what's the story for the Linux kernel-userspace interface?  Who owns
+
+it?  (Who has freedom to change the interface?  Who has the power to
+
+block changes?)
+
+
+
+</p>
+
+
+
+
+
+<ul>
+
+<li>Is it the Austin group (they define the POSIX.1/SUS API standard)?</li>
+
+<li>Is it the kernel developers (they implement the interfaces)?</li>
+
+<li>Is it the userspace programmers (they use the interfaces)?</li>
+
+<li>Is it the LSB (they define the Linux ABI standard)?<li>
+
+<li>Is it LTP or other testers (they come up with (implicit or explicit)
+
+interface specifications for testing)?</li>
+
+<li>Is it Ulrich Drepper (glibc mediates the interfaces exposed by the
+
+kernel)?</li>
+
+<li>Is it me (I maintain the documentation of the interfaces)?</li>
+
+
+
+<p>
+
+
+
+Given the nature of the Linux interface development, if you're a member
+
+of one of those groups, and assume that you must be the owner, then
+
+you're likely to be in for some unpleasant surprises.  You're also in
+
+for some surprises if you assume that some other group(s) must be the
+
+owner.  You're even in for some surprises if you assume that some
+
+particular group couldn't be the owner.  (Like: userland programmers
+
+couldn't possibly define the interface I already implemented, right?)
+
+I'll look at the arguments for assuming each of the above groups is the
+
+owner, and consider some of surprises if we make that assumption.
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+Some other questions I'm interested to explore in the course of the talk
+
+are: Does it matter who owns the interface?  What sort of problems can
+
+result when ownership of the interface is unclear?  If multiple groups
+
+can (legitimately) claim ownership of interface, how can we minimize the
+
+conflicts, limitations, and bugs that might result from the multiple claims?
+
+
+
+</p>
+
+
+
+<p>
+
+
+
+I can't provide definitive answers on the ownership question (there
+
+probably aren't any), but with this talk I do aim to start some useful
+
+conversations, and I hope that attendees will be able to further educate
+
+me, as well as each other, about the various facets of the topics
+
+described above.
+
+
+
+</p>
+
+
+</div>
+
+    <div id="right">
+<ul>
+
+<li><img src="../../images/sidebar/river.jpg" alt="Willamette River""/></li>
+
+<li><img src="../../images/sidebar/ahockley-MAX.jpg" alt="MAX"/></li>
+
+<li><img src="../../images/sidebar/Josh_Bashcroft-IgniteBagdad.jpg" alt="Baghdad Theatre"/></li>
+
+<li><img src="../../images/sidebar/coffee.jpg" alt="Coffee"/></li>
+
+<li><img src="../../images/sidebar/Tom_Harpel-Powells.jpg" alt="Powell's"/></li>
+
+
+<li><img src="../../images/sidebar/minntyfresh-Beer.jpg" alt="Beer"/></li>
+
+
+</ul>
+</div>
+<div class="clearer"> </div>
+    </div>
+
+<div id="footer">
+                 
+<div id="footer_navcontainer">        
+<ul id="footer_navlist">
+<li><a href="../../contact/index.html">Contact</a></li>
+<li><a href="../../organizers/index.html">Organizers</a></li>
+<li><a href="../../sitenotes/index.html">Site Notes</a></li>
+<li><a href="http://lists.osuosl.org/mailman/listinfo/announce">Mailing List</a></li>
+</ul>
+<a href="http://osuosl.org"><img border="0" src="../../images/osl-hosted.png" alt="OSL"/></a>
+</div>
+
+</div>
+</div>   
+
+
+
+</body>
+</html>

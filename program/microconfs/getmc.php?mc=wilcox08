@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Linux Plumbers Conference 2008</title>
+<meta name="author" content="Jennifer Redman"/>
+<meta name="date" content="2008-01-25T16:14:20-0800"/>
+<meta name="keywords" content="linux, kernel development, portland"/>
+<meta name="description" content="Linux Plumbers Conference 2008"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://linuxplumbersconf.wordpress.com/feed/" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+<meta http-equiv="content-style-type" content="text/css"/>
+<meta http-equiv="expires" content="0"/>
+<link href="../../style/main.css" type="text/css" rel="stylesheet"/>
+<link rel="shortcut icon" href="http://linuxplumbersconf.org/favicon.ico" />
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2670712-1";
+urchinTracker();
+</script>
+</head>
+<body>
+
+<div id="wrapper">
+
+  <div id="header"><a href="../../index.html"><img src="../../images/banner.png" border="none" alt="Linux Plumbers Conference"/></a></div>
+
+    <div id="container">
+       <div id="left">
+             
+        <ul id="nav">
+
+	
+        <li id="program"><a href="../schedule/index.html">Program</a></li>
+	        <li class="sub"id="schedule"><a href="../schedule/index.html">&raquo;Schedule</a></li>
+        <li class="sub" id="microconfs"><a href="index.html">&raquo;Microconfs</a></li>
+        <li class="sub" id="bofs"><a href="http://wiki.linuxplumbersconf.org/bofschedule">&raquo;BoFs</a></li>
+        <li class="sub" id="speakers"><a href="../speakers/index.html">&raquo;Speakers</a></li>
+        <li class="sub" id="students"><a href="../students/index.html">&raquo;Students</a></li> 
+	        <li id="cfp"><a href="../../cfp/index.html">CFP</a></li>
+        <li id="register"><a href="../../register/index.html">Register</a></li>
+	        <li id="venue"><a href="../../venue/index.html">Venue</a></li>
+	        <li id="contact"><a href="../../contact/index.html">Contact</a></li>
+        <li id="planet"><a href="http://planet.linuxplumbersconf.org">Planet</a></li>
+        <li id="wiki"><a href="http://wiki.linuxplumbersconf.org">Wiki</a></li>
+        <li id="organizers"><a href="../../organizers/index.html">Organizers</a></li>
+
+        </ul>
+	<div id="sponsors">
+        <h3>Sponsors</h3>
+        <h4>Platinum Sponsors</h4>
+        <ul> 
+        <li><a href="http://intel.com"><img src="../../images/intel_logo.png" border="none"  alt="Intel"/></a></li>
+        <li><a href="http://ibm.com"><img src="../../images/IBMtm.png" border="none" alt="IBM"/></a></li> 
+	</ul>
+        <h4>Gold Sponsors</h4>
+        <ul>
+        <li><a href="http://www.netapp.com/us/"><img src="../../images/netapp.png" border="none" alt="NetApp"/></a></li>       
+	</ul>
+        <h4>Silver Sponsors</h4>
+        <ul>
+         <li><a href="http://hp.com"><img src="../../images/hp_logo.gif" border="none" alt="HP"/></a></li>               
+       <li><a href="http://google.com"><img src="../../images/google_logo.gif" border="none"  alt="Google"/></a></li>               
+       <li><a href="http://mvista.com"><img src="../../images/mv-logo.png" border="none"  alt="MontaVista"/></a></li>               
+       <li><a href="http://sandisk.com"><img src="../../images/sandisk-logo.png" border="none"  alt="Sandisk"/></a></li>               
+       </ul>
+
+        <h4>Collaborators</h4>
+        <ul>
+	<li><a href="http://www.cs.pdx.edu/"><img src="../../images/psu_logo.gif" border="none" alt="Portland State University"/></a></li>
+	<li><a href="http://linux-foundation.org/"><img src="../../images/lflogo.png" border="none"  alt="Linux Foundation"/></a></li>                    
+	</ul>
+
+        <h4>Press Partners</h4>
+        <ul>
+	<li><a href="http://www.linuxjournal.com/"><img src="../../images/ljcolor.png" border="none" alt="Linux Journal"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://lwn.net/"><img src="../../images/lwnlogo.png" border="none" alt="Linux Weekly News"/></a></li>
+	</ul>
+	<ul>
+	<li><a href="http://www.linuxpromagazine.com/"><img src="../../images/LinuxPro-logo.png" border="none" alt="Linux Pro Magazine"/></a></li>
+	</ul>
+
+        <h4>Sponsorship opportunities</h4>
+
+	For more information on sponsorship opportunities, please contact <a
+	href="mailto:angela@linux-foundation.org">Angela Brown</a>. Linux Plumbers Conf <a href="../../sponsors/index.html">sponsorship
+	packages</a>.
+
+	</div>
+
+      </div>
+      
+      <div id="hotnews">
+   	<h4>Hot news</h4>&nbsp; &raquo;
+	<ul><li><a href="../../register/index.html">LPC registration closes Friday</a></li>&bull;
+	<li><a href="../speakers/index.html">Speakers announced</a></li></ul>
+	</div>
+      
+
+<div id="center">
+
+
+
+
+<h1><a name="the_future_of_linux_storage" id="the_future_of_linux_storage">The Future of Linux Storage</a></h1>
+<div class="level1">
+
+<p>
+
+We want to make Linux&#039;s storage subsystems even better.
+</p>
+
+</div>
+<!-- SECTION "The Future of Linux Storage" [1-100] -->
+<h2><a name="presenters" id="presenters">Presenters</a></h2>
+<div class="level2">
+
+<p>
+
+We have two presenters; Margaret Susairaj of Oracle and Michael Meeks of Novell.
+</p>
+
+<p>
+Margaret Susairaj works in the Server Technologies group at Oracle.  She
+has been playing with Oracle Server I/O stack  for the last 10 years.  Her
+main focus is on supporting new I/O technologies and  tuning existing I/O
+stack for better performance.  Prior to this,  she worked on Oracle
+scalability issues when running on Sequent&#039;s SMP/NUMA systems with respect
+to synchronization and caching policies.
+</p>
+
+<p>
+Michael is a Christian and enthusiastic believer in Free software. He very much enjoys working for Novell where as a member of the Desktop research team he has worked on desktop infrastructure and applications, particularly OpenOffice.org, CORBA, Bonobo, Nautilus and accessibility, amongst other interesting things. He now works as an Architect, trying to understand and nudge the direction of our Linux Desktop work. Prior to this he worked for Quantel gaining expertise in real time AV editing and playback achieved with high performance focused hardware / software solutions.
+</p>
+
+</div>
+<!-- SECTION "Presenters" [101-1194] -->
+<h2><a name="schedule" id="schedule">Schedule</a></h2>
+<div class="level2">
+
+<p>
+
+Michael Meeks will start us off with a half-hour presentation on a tool he has written called <a href="http://www.linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=mmeeks.txt" class="urlextern" title="http://www.linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=mmeeks.txt"  rel="nofollow">iogrind</a>.
+</p>
+
+<p>
+After that, Margaret and Michael will alternate, presenting interesting problems in storage for our consideration.
+</p>
+
+<p>
+Here are some sample problems (and sometimes sample solutions) to give you an idea about what might be discussed.
+</p>
+
+</div>
+<!-- SECTION "Schedule" [1195-1639] -->
+<h3><a name="has_anything_changed_in_this_directory" id="has_anything_changed_in_this_directory">Has anything changed in this directory?</a></h3>
+<div class="level3">
+
+<p>
+
+Problem:
+</p>
+
+<p>
+The use case is “Do I need to update this icon cache” or “Do I need to reindex these files”.
+At the moment, userspace has to stat every file.  If there were a way to check the mtime of a file more cheaply, this would be a good thing.
+Inotify is not a solution to this as the machine may have been rebooted and the files modified while the desktop isn&#039;t running.
+</p>
+
+<p>
+Solution A:
+</p>
+
+<p>
+NFSv3 added a READDIRPLUS operation that returns  type, mode, nlink, uid, gid, size, rdev, atime, mtime and ctime.
+readdir() currently returns inode, type (file/directory/symlink/etc) and name.  We could add a sys_getdentsplus() that returns all this information.
+
+</p>
+<ul>
+<li class="level1"><div class="li"> This may make the filesystem do a lot of work.  An ext2-type filesystem will have to pull the inode in from storage to get all this information.  The savings may not be as large as we might hope (exchanging thousands of quick syscalls for dozens of slow ones isn&#039;t necessarily a win). — <em><a href="mailto:&#x6d;&#x61;&#x74;&#x74;&#x68;&#x65;&#x77;&#x40;&#x77;&#x69;&#x6c;&#x2e;&#x63;&#x78;" class="mail JSnocheck" title="&#x6d;&#x61;&#x74;&#x74;&#x68;&#x65;&#x77;&#x40;&#x77;&#x69;&#x6c;&#x2e;&#x63;&#x78;">Matthew Wilcox</a> 2008/07/15 14:23</em></div>
+</li>
+</ul>
+
+</div>
+<!-- SECTION "Has anything changed in this directory?" [1640-2690] -->
+<h3><a name="want_notifications_on_huge_numbers_of_files" id="want_notifications_on_huge_numbers_of_files">Want notifications on huge numbers of files</a></h3>
+<div class="level3">
+
+<p>
+
+Problem:
+</p>
+
+<p>
+The kernel limits on the number of inotifications that can be set are too restrictive.
+</p>
+
+<p>
+Solution A:
+</p>
+
+<p>
+The inotify structure is relatively fat and one is required per inode.  We could set one per directory and check whether the parent directory has a watch set for its children.
+</p>
+
+<p>
+Solution B:
+</p>
+
+<p>
+We could avoid allocating per inode by creating notification filters in the kernel that will receive notification of all events and pass only the requested ones to userspace.  This might work well when userspace wants to monitor an entire directory tree.  (what about namespaces?)
+</p>
+
+</div>
+<!-- SECTION "Want notifications on huge numbers of files" [2691-3328] -->
+<h3><a name="it_takes_a_long_time_to_open_a_lot_of_files" id="it_takes_a_long_time_to_open_a_lot_of_files">It takes a long time to open a lot of files</a></h3>
+<div class="level3">
+
+<p>
+
+Problem:
+It takes a long time to open/close large number of files without launching
+multiple threads to do them in parallel.
+</p>
+
+<p>
+Solution A:
+Provide a list interface to issue file open/close operations..
+</p>
+
+<p>
+Solution B:
+Use syslets/threadlets.
+</p>
+
+</div>
+<!-- SECTION "It takes a long time to open a lot of files" [3329-3622] -->
+<h3><a name="doing_discontiguous_i_o_is_inefficient" id="doing_discontiguous_i_o_is_inefficient">Doing discontiguous I/O is inefficient</a></h3>
+<div class="level3">
+
+<p>
+
+Problem:
+There is no batched synchronous I/O interface in Linux.  When applications
+need to do I/O to a set of discontiguous blocks on disk, they have to use
+io_submit to submit the blocks and wait for them to complete using
+io_getevents(). There is no single interface that will get the entire I/O
+list done.
+</p>
+
+<p>
+Solution:
+Extend io_submit to do a batched synchronous I/O operation.
+</p>
+
+</div>
+<!-- SECTION "Doing discontiguous I/O is inefficient" [3623-4054] -->
+<h3><a name="aio_requests_must_be_allocated_statically" id="aio_requests_must_be_allocated_statically">AIO requests must be allocated statically</a></h3>
+<div class="level3">
+
+<p>
+
+Problem:
+Applications need to reserve large number of  aio ring buffers on startup
+since it cannot be resized on demand. The number of concurrent aio requests
+a process may issue often changes during its lifetime and hence having the
+ability to increase or decrease on need basis will result in a better
+utilization of kernel resources. A better solution would be if the kernel
+can do this automatically.
+</p>
+
+<p>
+Solution A:
+Allow aio ring buffers to dynamically grow/shrink without destroying the
+original aio context. Provide an io_queue_resize() interface.
+</p>
+
+<p>
+Solution B:
+Allocate the ring buffer as needed without requiring a hint from the user
+process.
+</p>
+
+</div>
+<!-- SECTION "AIO requests must be allocated statically" [4055-4757] -->
+<h2><a name="report" id="report">Report</a></h2>
+<div class="level2">
+
+<p>
+
+The iogrind talk, with questions took 45 minutes, then Margaret presented her top
+three problems and a rousing debate was had by all.  Then we broke for fifteen minutes,
+came back and debated a proposal from Jan Kara for keeping track of whether any
+files have changed in a directory hierarchy.  After that, Margaret presented two more problems
+and our time was up.
+</p>
+
+</div>
+<!-- SECTION "Report" [4758-5144] -->
+<h3><a name="problem_1" id="problem_1">Problem 1</a></h3>
+<div class="level3">
+
+<p>
+
+Margaret reports it can take minutes to open 4000 files.  Often the &#039;files&#039; being opened are actually block devices and it can take a while to negotiate with each one.  The audience were sceptical that there was much parallelism to be gained and asked for data that showed, eg, the time taken for ten threads to open 400 files each versus one thread opening 4000 files.  Various interfaces were proposed including:
+</p>
+<ul>
+<li class="level1"><div class="li"> an open_list() which took an array of names to open and returned an array of fds</div>
+</li>
+<li class="level1"><div class="li"> a new open flag (O_ASYNCOPEN) that would allow the kernel to internally spawn a thread to do name resolution and actually connect the fd to anything.  Use of the fd would block until it was ready.  Many syscalls would have to be able to return new errors such as ENOENT, EISDIR, and any other error that open() could have returned.</div>
+</li>
+<li class="level1"><div class="li"> a new syscall openasync() that would behave as above</div>
+</li>
+</ul>
+
+</div>
+<!-- SECTION "Problem 1" [5145-6059] -->
+<h3><a name="problem_2" id="problem_2">Problem 2</a></h3>
+<div class="level3">
+
+<p>
+
+This was a request to implement an interface that allows for submitting many IOs to potentially different files and waiting for them all to complete.  An HPC group has an interface proposal called readx() and writex().  Linus suggested using sys_readahead() to kick the operations off and then sys_read() to be sure they&#039;ve finished.  The use of O_DIRECT means this possibly won&#039;t work well today, but Linus seems quite happy to enhance sys_readahead().  This also doesn&#039;t solve the write-side.
+</p>
+
+</div>
+<!-- SECTION "Problem 2" [6060-6576] -->
+<h3><a name="problem_3" id="problem_3">Problem 3</a></h3>
+<div class="level3">
+
+<p>
+
+The command ring for aio must be sized at startup and cannot be resized.  This topic did not attract much interest from the attendees and we moved onward swiftly.
+</p>
+
+</div>
+<!-- SECTION "Problem 3" [6577-6761] -->
+<h3><a name="problem_4" id="problem_4">Problem 4</a></h3>
+<div class="level3">
+
+<p>
+
+File metadata operations take a long time on ext3 when an fsync is in progress.  It was explained that this is simply a bug in ext3 as it requires the entire journal to be committed when an fsync is in progress and this can take a very long time.  Various proposals were made for customers to use data=writeback instead of data=ordered, and bugfixes were proposed to ext3 where it could detect this problem and write the journal mot more frequently.  It was also suggested that database customers really should be using ext2, not ext3.
+</p>
+
+</div>
+<!-- SECTION "Problem 4" [6762-7319] -->
+<h3><a name="problem_5" id="problem_5">Problem 5</a></h3>
+<div class="level3">
+
+<p>
+
+After the break, Michael showed a pretty graph showing how much we seek.  He suggested that we need an interface which tells userspace which order blocks are in on disc and then it can read them in the right order.  FIEMAP was mentioned as a solution to this.
+</p>
+
+</div>
+<!-- SECTION "Problem 5" [7320-7601] -->
+<h3><a name="problem_6" id="problem_6">Problem 6</a></h3>
+<div class="level3">
+
+<p>
+
+Jan Kara then stepped up to talk about file change notification.  He has a solution which involves a new timestamp on directories and a flag to indicate interest from a userspace application.  He has a presentation which explains how this works in great detail.  The attendees kicked the idea around a bit and found some easily-correctable nits.  There seemed general consensus that this was an improvement over inotify.  A suggestion was made that we should use the netlink interface to notify apps of file changes, but this was deemed too heavyweight by the other attendees.
+</p>
+
+</div>
+<!-- SECTION "Problem 6" [7602-8200] -->
+<h3><a name="problem_7" id="problem_7">Problem 7</a></h3>
+<div class="level3">
+
+<p>
+
+Margaret wants some unified way to wait for any kind of events.  We decided the real problem is that aio doesn&#039;t have an fd interface on which you can select()/poll().  We also kicked around the idea of extending epoll to give AIO notifications.
+</p>
+
+<p>
+At this point, we ran out of time.  Margaret has many more problems in her presentation which will be uploaded shortly.
+
+</p>
+
+</div>
+<!-- SECTION "Problem 7" [8201-] -->	
+</div>
+
+    <div id="right">
+<ul>
+
+<li><img src="../../images/sidebar/river.jpg" alt="Willamette River""/></li>
+
+<li><img src="../../images/sidebar/ahockley-MAX.jpg" alt="MAX"/></li>
+
+<li><img src="../../images/sidebar/Josh_Bashcroft-IgniteBagdad.jpg" alt="Baghdad Theatre"/></li>
+
+<li><img src="../../images/sidebar/coffee.jpg" alt="Coffee"/></li>
+
+<li><img src="../../images/sidebar/Tom_Harpel-Powells.jpg" alt="Powell's"/></li>
+
+
+<li><img src="../../images/sidebar/minntyfresh-Beer.jpg" alt="Beer"/></li>
+
+
+</ul>
+</div>
+<div class="clearer"> </div>
+    </div>
+
+<div id="footer">
+                 
+<div id="footer_navcontainer">        
+<ul id="footer_navlist">
+<li><a href="../../contact/index.html">Contact</a></li>
+<li><a href="../../organizers/index.html">Organizers</a></li>
+<li><a href="../../sitenotes/index.html">Site Notes</a></li>
+<li><a href="http://lists.osuosl.org/mailman/listinfo/announce">Mailing List</a></li>
+</ul>
+<a href="http://osuosl.org"><img border="0" src="../../images/osl-hosted.png" alt="OSL"/></a>
+</div>
+
+</div>
+</div>   
+
+
+
+</body>
+</html>

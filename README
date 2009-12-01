@@ -1,0 +1,4 @@
+Archive of the Linux Plumbers Conf 2008 website.
+
+Generated using:
+wget --exclude-directories=2009 -r -l20 -t1 -N -k -p  --no-host-directories -D linuxplumbersconf.org http://linuxplumbersconf.org/2008 2> wget.log
