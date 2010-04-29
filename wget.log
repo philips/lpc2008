@@ -447,698 +447,698 @@ Saving to: `2008/images/osl-hosted.png'
 
 2009-12-01 14:50:56 (19.5 MB/s) - `2008/images/osl-hosted.png' saved [275/275]
 
---2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=gkhartman.txt
+--2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=gkhartman.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6695 (6.5K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=gkhartman.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=gkhartman.txt'
 
      0K ......                                                100% 5.75M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:56 (5.75 MB/s) - `2008/program/speakers/getspeaker.php?speaker=gkhartman.txt' saved [6695/6695]
+2009-12-01 14:50:56 (5.75 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=gkhartman.txt' saved [6695/6695]
 
---2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=wilcox08
+--2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=wilcox08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=wilcox08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=wilcox08'
 
      0K .......... .......                                     2.88M=0.006s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:56 (2.88 MB/s) - `2008/program/microconfs/getmc.php?mc=wilcox08' saved [17725]
+2009-12-01 14:50:56 (2.88 MB/s) - `2008/program/microconfs/getspeaker.php-?mc=wilcox08' saved [17725]
 
---2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=wilcox08
+--2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=wilcox08
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6313 (6.2K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=wilcox08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=wilcox08'
 
      0K ......                                                100%  297K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:56 (297 KB/s) - `2008/program/microconfs/getmc.php?speaker=wilcox08' saved [6313/6313]
+2009-12-01 14:50:56 (297 KB/s) - `2008/program/microconfs/getspeaker.php-?speaker=wilcox08' saved [6313/6313]
 
---2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=mmeeks.txt
+--2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=mmeeks.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7508 (7.3K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=mmeeks.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=mmeeks.txt'
 
      0K .......                                               100% 3.53M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:56 (3.53 MB/s) - `2008/program/speakers/getspeaker.php?speaker=mmeeks.txt' saved [7508/7508]
+2009-12-01 14:50:56 (3.53 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=mmeeks.txt' saved [7508/7508]
 
---2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=poettering08
+--2009-12-01 14:50:56--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=poettering08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=poettering08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=poettering08'
 
      0K ..........                                              469K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (469 KB/s) - `2008/program/microconfs/getmc.php?mc=poettering08' saved [10489]
+2009-12-01 14:50:57 (469 KB/s) - `2008/program/microconfs/getspeaker.php-?mc=poettering08' saved [10489]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=poettering08
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=poettering08
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6508 (6.4K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=poettering08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=poettering08'
 
      0K ......                                                100%  230K=0.03s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (230 KB/s) - `2008/program/microconfs/getmc.php?speaker=poettering08' saved [6508/6508]
+2009-12-01 14:50:57 (230 KB/s) - `2008/program/microconfs/getspeaker.php-?speaker=poettering08' saved [6508/6508]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=jwoithe.txt
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=jwoithe.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=jwoithe.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=jwoithe.txt'
 
      0K ........                                                471K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (471 KB/s) - `2008/program/speakers/getspeaker.php?speaker=jwoithe.txt' saved [9200]
+2009-12-01 14:50:57 (471 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=jwoithe.txt' saved [9200]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=tiwai.txt
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=tiwai.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6323 (6.2K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=tiwai.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=tiwai.txt'
 
      0K ......                                                100%  286K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (286 KB/s) - `2008/program/speakers/getspeaker.php?speaker=tiwai.txt' saved [6323/6323]
+2009-12-01 14:50:57 (286 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=tiwai.txt' saved [6323/6323]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=rostedt08
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=rostedt08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=rostedt08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=rostedt08'
 
      0K ........                                                367K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (367 KB/s) - `2008/program/microconfs/getmc.php?mc=rostedt08' saved [8988]
+2009-12-01 14:50:57 (367 KB/s) - `2008/program/microconfs/getspeaker.php-?mc=rostedt08' saved [8988]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=rostedt08
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=rostedt08
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6665 (6.5K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=rostedt08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=rostedt08'
 
      0K ......                                                100%  297K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (297 KB/s) - `2008/program/microconfs/getmc.php?speaker=rostedt08' saved [6665/6665]
+2009-12-01 14:50:57 (297 KB/s) - `2008/program/microconfs/getspeaker.php-?speaker=rostedt08' saved [6665/6665]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=eigler.txt
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=eigler.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7728 (7.5K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=eigler.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=eigler.txt'
 
      0K .......                                               100% 4.98M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (4.98 MB/s) - `2008/program/speakers/getspeaker.php?speaker=eigler.txt' saved [7728/7728]
+2009-12-01 14:50:57 (4.98 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=eigler.txt' saved [7728/7728]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=mdesnoyers.txt
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=mdesnoyers.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7525 (7.3K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=mdesnoyers.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=mdesnoyers.txt'
 
      0K .......                                               100% 5.58M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (5.58 MB/s) - `2008/program/speakers/getspeaker.php?speaker=mdesnoyers.txt' saved [7525/7525]
+2009-12-01 14:50:57 (5.58 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=mdesnoyers.txt' saved [7525/7525]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=rmcgrath.txt
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=rmcgrath.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=rmcgrath.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=rmcgrath.txt'
 
      0K .........                                              4.29M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (4.29 MB/s) - `2008/program/speakers/getspeaker.php?speaker=rmcgrath.txt' saved [9996]
+2009-12-01 14:50:57 (4.29 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=rmcgrath.txt' saved [9996]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=srostedt.txt
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=srostedt.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7420 (7.2K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=srostedt.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=srostedt.txt'
 
      0K .......                                               100%  334K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:57 (334 KB/s) - `2008/program/speakers/getspeaker.php?speaker=srostedt.txt' saved [7420/7420]
+2009-12-01 14:50:57 (334 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=srostedt.txt' saved [7420/7420]
 
---2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=chehab08
+--2009-12-01 14:50:57--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=chehab08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=chehab08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=chehab08'
 
      0K .........                                              4.35M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (4.35 MB/s) - `2008/program/microconfs/getmc.php?mc=chehab08' saved [9852]
+2009-12-01 14:50:58 (4.35 MB/s) - `2008/program/microconfs/getspeaker.php-?mc=chehab08' saved [9852]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=chehab08
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=chehab08
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6736 (6.6K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=chehab08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=chehab08'
 
      0K ......                                                100%  275K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (275 KB/s) - `2008/program/microconfs/getmc.php?speaker=chehab08' saved [6736/6736]
+2009-12-01 14:50:58 (275 KB/s) - `2008/program/microconfs/getspeaker.php-?speaker=chehab08' saved [6736/6736]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=bphilips.txt
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=bphilips.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7875 (7.7K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=bphilips.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=bphilips.txt'
 
      0K .......                                               100% 3.06M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (3.06 MB/s) - `2008/program/speakers/getspeaker.php?speaker=bphilips.txt' saved [7875/7875]
+2009-12-01 14:50:58 (3.06 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=bphilips.txt' saved [7875/7875]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=hgoede.txt
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=hgoede.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=hgoede.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=hgoede.txt'
 
      0K .........                                              3.06M=0.003s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (3.06 MB/s) - `2008/program/speakers/getspeaker.php?speaker=hgoede.txt' saved [9404]
+2009-12-01 14:50:58 (3.06 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=hgoede.txt' saved [9404]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=hverkuil.txt
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=hverkuil.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7597 (7.4K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=hverkuil.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=hverkuil.txt'
 
      0K .......                                               100%  335K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (335 KB/s) - `2008/program/speakers/getspeaker.php?speaker=hverkuil.txt' saved [7597/7597]
+2009-12-01 14:50:58 (335 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=hverkuil.txt' saved [7597/7597]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=mchehab.txt
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=mchehab.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7446 (7.3K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=mchehab.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=mchehab.txt'
 
      0K .......                                               100% 5.64M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (5.64 MB/s) - `2008/program/speakers/getspeaker.php?speaker=mchehab.txt' saved [7446/7446]
+2009-12-01 14:50:58 (5.64 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=mchehab.txt' saved [7446/7446]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=brown.txt
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=brown.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7344 (7.2K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=brown.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=brown.txt'
 
      0K .......                                               100% 6.09M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (6.09 MB/s) - `2008/program/speakers/getspeaker.php?speaker=brown.txt' saved [7344/7344]
+2009-12-01 14:50:58 (6.09 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=brown.txt' saved [7344/7344]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=masbock.txt
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=masbock.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=masbock.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=masbock.txt'
 
      0K ........                                               5.47M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (5.47 MB/s) - `2008/program/speakers/getspeaker.php?speaker=masbock.txt' saved [9209]
+2009-12-01 14:50:58 (5.47 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=masbock.txt' saved [9209]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=bsmith.txt
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=bsmith.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7576 (7.4K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=bsmith.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=bsmith.txt'
 
      0K .......                                               100%  284K=0.03s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (284 KB/s) - `2008/program/speakers/getspeaker.php?speaker=bsmith.txt' saved [7576/7576]
+2009-12-01 14:50:58 (284 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=bsmith.txt' saved [7576/7576]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=ltorvalds.txt
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=ltorvalds.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6584 (6.4K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=ltorvalds.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=ltorvalds.txt'
 
      0K ......                                                100% 7.91M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (7.91 MB/s) - `2008/program/speakers/getspeaker.php?speaker=ltorvalds.txt' saved [6584/6584]
+2009-12-01 14:50:58 (7.91 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=ltorvalds.txt' saved [6584/6584]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=jcorbet.txt
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=jcorbet.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6864 (6.7K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=jcorbet.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=jcorbet.txt'
 
      0K ......                                                100% 6.58M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:58 (6.58 MB/s) - `2008/program/speakers/getspeaker.php?speaker=jcorbet.txt' saved [6864/6864]
+2009-12-01 14:50:58 (6.58 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=jcorbet.txt' saved [6864/6864]
 
---2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=jones08
+--2009-12-01 14:50:58--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=jones08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7886 (7.7K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=jones08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=jones08'
 
      0K .......                                               100%  353K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (353 KB/s) - `2008/program/microconfs/getmc.php?mc=jones08' saved [7886/7886]
+2009-12-01 14:50:59 (353 KB/s) - `2008/program/microconfs/getspeaker.php-?mc=jones08' saved [7886/7886]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=jones08
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=jones08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6351 (6.2K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=jones08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=jones08'
 
      0K ......                                                100% 4.94M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (4.94 MB/s) - `2008/program/microconfs/getmc.php?speaker=jones08' saved [6351/6351]
+2009-12-01 14:50:59 (4.94 MB/s) - `2008/program/microconfs/getspeaker.php-?speaker=jones08' saved [6351/6351]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=avandeven.txt
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=avandeven.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6683 (6.5K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=avandeven.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=avandeven.txt'
 
      0K ......                                                100% 8.10M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (8.10 MB/s) - `2008/program/speakers/getspeaker.php?speaker=avandeven.txt' saved [6683/6683]
+2009-12-01 14:50:59 (8.10 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=avandeven.txt' saved [6683/6683]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=djones.txt
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=djones.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7127 (7.0K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=djones.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=djones.txt'
 
      0K ......                                                100% 4.67M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (4.67 MB/s) - `2008/program/speakers/getspeaker.php?speaker=djones.txt' saved [7127/7127]
+2009-12-01 14:50:59 (4.67 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=djones.txt' saved [7127/7127]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=kmcmartin.txt
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=kmcmartin.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7680 (7.5K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=kmcmartin.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=kmcmartin.txt'
 
      0K .......                                               100% 4.68M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (4.68 MB/s) - `2008/program/speakers/getspeaker.php?speaker=kmcmartin.txt' saved [7680/7680]
+2009-12-01 14:50:59 (4.68 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=kmcmartin.txt' saved [7680/7680]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=wong08
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=wong08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=wong08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=wong08'
 
      0K .......... .....                                       3.06M=0.005s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (3.06 MB/s) - `2008/program/microconfs/getmc.php?mc=wong08' saved [15479]
+2009-12-01 14:50:59 (3.06 MB/s) - `2008/program/microconfs/getspeaker.php-?mc=wong08' saved [15479]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=wong08
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=wong08
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6518 (6.4K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=wong08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=wong08'
 
      0K ......                                                100%  265K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (265 KB/s) - `2008/program/microconfs/getmc.php?speaker=wong08' saved [6518/6518]
+2009-12-01 14:50:59 (265 KB/s) - `2008/program/microconfs/getspeaker.php-?speaker=wong08' saved [6518/6518]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=achiang.txt
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=achiang.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=achiang.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=achiang.txt'
 
      0K .........                                               429K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (429 KB/s) - `2008/program/speakers/getspeaker.php?speaker=achiang.txt' saved [9629]
+2009-12-01 14:50:59 (429 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=achiang.txt' saved [9629]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=bergmann.txt
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=bergmann.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7104 (6.9K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=bergmann.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=bergmann.txt'
 
      0K ......                                                100%  261K=0.03s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (261 KB/s) - `2008/program/speakers/getspeaker.php?speaker=bergmann.txt' saved [7104/7104]
+2009-12-01 14:50:59 (261 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=bergmann.txt' saved [7104/7104]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=lbrown.txt
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=lbrown.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7222 (7.1K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=lbrown.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=lbrown.txt'
 
      0K .......                                               100% 3.64M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (3.64 MB/s) - `2008/program/speakers/getspeaker.php?speaker=lbrown.txt' saved [7222/7222]
+2009-12-01 14:50:59 (3.64 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=lbrown.txt' saved [7222/7222]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=cleech.txt
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=cleech.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=cleech.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=cleech.txt'
 
      0K ........                                               6.06M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (6.06 MB/s) - `2008/program/speakers/getspeaker.php?speaker=cleech.txt' saved [8436]
+2009-12-01 14:50:59 (6.06 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=cleech.txt' saved [8436]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=cmason.txt
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=cmason.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6606 (6.5K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=cmason.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=cmason.txt'
 
      0K ......                                                100%  315K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (315 KB/s) - `2008/program/speakers/getspeaker.php?speaker=cmason.txt' saved [6606/6606]
+2009-12-01 14:50:59 (315 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=cmason.txt' saved [6606/6606]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=hblanchard.txt
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=hblanchard.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7284 (7.1K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=hblanchard.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=hblanchard.txt'
 
      0K .......                                               100% 5.59M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:50:59 (5.59 MB/s) - `2008/program/speakers/getspeaker.php?speaker=hblanchard.txt' saved [7284/7284]
+2009-12-01 14:50:59 (5.59 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=hblanchard.txt' saved [7284/7284]
 
---2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=gregkh08
+--2009-12-01 14:50:59--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=gregkh08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7939 (7.8K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=gregkh08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=gregkh08'
 
      0K .......                                               100% 4.51M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (4.51 MB/s) - `2008/program/microconfs/getmc.php?mc=gregkh08' saved [7939/7939]
+2009-12-01 14:51:00 (4.51 MB/s) - `2008/program/microconfs/getspeaker.php-?mc=gregkh08' saved [7939/7939]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=gregkh08
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=gregkh08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6396 (6.2K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=gregkh08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=gregkh08'
 
      0K ......                                                100% 5.78M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (5.78 MB/s) - `2008/program/microconfs/getmc.php?speaker=gregkh08' saved [6396/6396]
+2009-12-01 14:51:00 (5.78 MB/s) - `2008/program/microconfs/getspeaker.php-?speaker=gregkh08' saved [6396/6396]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=jbottomley.txt
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=jbottomley.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=jbottomley.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=jbottomley.txt'
 
      0K .........                                              3.97M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (3.97 MB/s) - `2008/program/speakers/getspeaker.php?speaker=jbottomley.txt' saved [9618]
+2009-12-01 14:51:00 (3.97 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=jbottomley.txt' saved [9618]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=mkerrisk.txt
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=mkerrisk.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=mkerrisk.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=mkerrisk.txt'
 
      0K .........                                               348K=0.03s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (348 KB/s) - `2008/program/speakers/getspeaker.php?speaker=mkerrisk.txt' saved [9258]
+2009-12-01 14:51:00 (348 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=mkerrisk.txt' saved [9258]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=jbecker.txt
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=jbecker.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=jbecker.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=jbecker.txt'
 
      0K .......                                                 382K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (382 KB/s) - `2008/program/speakers/getspeaker.php?speaker=jbecker.txt' saved [8186]
+2009-12-01 14:51:00 (382 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=jbecker.txt' saved [8186]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=shemminger.txt
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=shemminger.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6462 (6.3K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=shemminger.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=shemminger.txt'
 
      0K ......                                                100%  276K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (276 KB/s) - `2008/program/speakers/getspeaker.php?speaker=shemminger.txt' saved [6462/6462]
+2009-12-01 14:51:00 (276 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=shemminger.txt' saved [6462/6462]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=garrett08
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=garrett08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7730 (7.5K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=garrett08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=garrett08'
 
      0K .......                                               100% 8.55M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (8.55 MB/s) - `2008/program/microconfs/getmc.php?mc=garrett08' saved [7730/7730]
+2009-12-01 14:51:00 (8.55 MB/s) - `2008/program/microconfs/getspeaker.php-?mc=garrett08' saved [7730/7730]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=garrett08
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=garrett08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6280 (6.1K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=garrett08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=garrett08'
 
      0K ......                                                100% 4.39M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (4.39 MB/s) - `2008/program/microconfs/getmc.php?speaker=garrett08' saved [6280/6280]
+2009-12-01 14:51:00 (4.39 MB/s) - `2008/program/microconfs/getspeaker.php-?speaker=garrett08' saved [6280/6280]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=dsaxena.txt
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=dsaxena.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=dsaxena.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=dsaxena.txt'
 
      0K ........                                                220M=0s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (220 MB/s) - `2008/program/speakers/getspeaker.php?speaker=dsaxena.txt' saved [8700]
+2009-12-01 14:51:00 (220 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=dsaxena.txt' saved [8700]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=mgross.txt
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=mgross.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7605 (7.4K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=mgross.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=mgross.txt'
 
      0K .......                                               100%  340K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (340 KB/s) - `2008/program/speakers/getspeaker.php?speaker=mgross.txt' saved [7605/7605]
+2009-12-01 14:51:00 (340 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=mgross.txt' saved [7605/7605]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=oneukum.txt
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=oneukum.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=oneukum.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=oneukum.txt'
 
      0K ........                                               7.01M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (7.01 MB/s) - `2008/program/speakers/getspeaker.php?speaker=oneukum.txt' saved [8305]
+2009-12-01 14:51:00 (7.01 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=oneukum.txt' saved [8305]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=ttyree.txt
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=ttyree.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=ttyree.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=ttyree.txt'
 
      0K ........                                                353K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:00 (353 KB/s) - `2008/program/speakers/getspeaker.php?speaker=ttyree.txt' saved [8799]
+2009-12-01 14:51:00 (353 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=ttyree.txt' saved [8799]
 
---2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=mwong.txt
+--2009-12-01 14:51:00--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=mwong.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7876 (7.7K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=mwong.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=mwong.txt'
 
      0K .......                                               100%  332K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (332 KB/s) - `2008/program/speakers/getspeaker.php?speaker=mwong.txt' saved [7876/7876]
+2009-12-01 14:51:01 (332 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=mwong.txt' saved [7876/7876]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=mpetersen.txt
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=mpetersen.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=mpetersen.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=mpetersen.txt'
 
      0K ........                                               4.63M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (4.63 MB/s) - `2008/program/speakers/getspeaker.php?speaker=mpetersen.txt' saved [9190]
+2009-12-01 14:51:01 (4.63 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=mpetersen.txt' saved [9190]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php?speaker=jkeniston.txt
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008//program/speakers/getspeaker.php-?speaker=jkeniston.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7150 (7.0K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=jkeniston.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=jkeniston.txt'
 
      0K ......                                                100%  298K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (298 KB/s) - `2008/program/speakers/getspeaker.php?speaker=jkeniston.txt' saved [7150/7150]
+2009-12-01 14:51:01 (298 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=jkeniston.txt' saved [7150/7150]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=packard08
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=packard08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7939 (7.8K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=packard08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=packard08'
 
      0K .......                                               100% 5.09M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (5.09 MB/s) - `2008/program/microconfs/getmc.php?mc=packard08' saved [7939/7939]
+2009-12-01 14:51:01 (5.09 MB/s) - `2008/program/microconfs/getspeaker.php-?mc=packard08' saved [7939/7939]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=packard08
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=packard08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6427 (6.3K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=packard08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=packard08'
 
      0K ......                                                100% 6.85M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (6.85 MB/s) - `2008/program/microconfs/getmc.php?speaker=packard08' saved [6427/6427]
+2009-12-01 14:51:01 (6.85 MB/s) - `2008/program/microconfs/getspeaker.php-?speaker=packard08' saved [6427/6427]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=airlie.txt
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=airlie.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=airlie.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=airlie.txt'
 
      0K ........                                               5.92M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (5.92 MB/s) - `2008/program/speakers/getspeaker.php?speaker=airlie.txt' saved [8686]
+2009-12-01 14:51:01 (5.92 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=airlie.txt' saved [8686]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=cworth.txt
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=cworth.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7579 (7.4K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=cworth.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=cworth.txt'
 
      0K .......                                               100%  314K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (314 KB/s) - `2008/program/speakers/getspeaker.php?speaker=cworth.txt' saved [7579/7579]
+2009-12-01 14:51:01 (314 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=cworth.txt' saved [7579/7579]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=jkumar.txt
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=jkumar.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 7982 (7.8K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=jkumar.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=jkumar.txt'
 
      0K .......                                               100% 12.0M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (12.0 MB/s) - `2008/program/speakers/getspeaker.php?speaker=jkumar.txt' saved [7982/7982]
+2009-12-01 14:51:01 (12.0 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=jkumar.txt' saved [7982/7982]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=romanick.txt
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=romanick.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6988 (6.8K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=romanick.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=romanick.txt'
 
      0K ......                                                100% 6.97M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (6.97 MB/s) - `2008/program/speakers/getspeaker.php?speaker=romanick.txt' saved [6988/6988]
+2009-12-01 14:51:01 (6.97 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=romanick.txt' saved [6988/6988]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?mc=zeuthen08
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?mc=zeuthen08
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/microconfs/getmc.php?mc=zeuthen08'
+Saving to: `2008/program/microconfs/getspeaker.php-?mc=zeuthen08'
 
      0K ..........                                             5.20M=0.002s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (5.20 MB/s) - `2008/program/microconfs/getmc.php?mc=zeuthen08' saved [10244]
+2009-12-01 14:51:01 (5.20 MB/s) - `2008/program/microconfs/getspeaker.php-?mc=zeuthen08' saved [10244]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/microconfs/getmc.php?speaker=zeuthen08
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/microconfs/getspeaker.php-?speaker=zeuthen08
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6470 (6.3K) [text/html]
-Saving to: `2008/program/microconfs/getmc.php?speaker=zeuthen08'
+Saving to: `2008/program/microconfs/getspeaker.php-?speaker=zeuthen08'
 
      0K ......                                                100%  306K=0.02s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (306 KB/s) - `2008/program/microconfs/getmc.php?speaker=zeuthen08' saved [6470/6470]
+2009-12-01 14:51:01 (306 KB/s) - `2008/program/microconfs/getspeaker.php-?speaker=zeuthen08' saved [6470/6470]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=jmccann.txt
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=jmccann.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6866 (6.7K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=jmccann.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=jmccann.txt'
 
      0K ......                                                100% 8.09M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:01 (8.09 MB/s) - `2008/program/speakers/getspeaker.php?speaker=jmccann.txt' saved [6866/6866]
+2009-12-01 14:51:01 (8.09 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=jmccann.txt' saved [6866/6866]
 
---2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=sjremnant.txt
+--2009-12-01 14:51:01--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=sjremnant.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: 6986 (6.8K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=sjremnant.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=sjremnant.txt'
 
      0K ......                                                100% 7.68M=0.001s
 
 Last-modified header missing -- time-stamps turned off.
-2009-12-01 14:51:02 (7.68 MB/s) - `2008/program/speakers/getspeaker.php?speaker=sjremnant.txt' saved [6986/6986]
+2009-12-01 14:51:02 (7.68 MB/s) - `2008/program/speakers/getspeaker.php-?speaker=sjremnant.txt' saved [6986/6986]
 
 --2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/register/FAQ
 Reusing existing connection to linuxplumbersconf.org:80.
@@ -1214,200 +1214,200 @@ Saving to: `2008/images/thirdfloorplanprev.JPG'
 
 2009-12-01 14:51:02 (4.31 MB/s) - `2008/images/thirdfloorplanprev.JPG' saved [22706/22706]
 
---2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=gkhartman.txt
+--2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=gkhartman.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=gkhartman.txt
+--2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=gkhartman.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6695 (6.5K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=gkhartman.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=gkhartman.txt'
 
      0K ......                                                100%  257K=0.03s
 
-2009-12-01 14:51:02 (257 KB/s) - `2008/program/speakers/getspeaker.php?speaker=gkhartman.txt' saved [6695/6695]
+2009-12-01 14:51:02 (257 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=gkhartman.txt' saved [6695/6695]
 
---2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=brown.txt
+--2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=brown.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=brown.txt
+--2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=brown.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7344 (7.2K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=brown.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=brown.txt'
 
      0K .......                                               100%  339K=0.02s
 
-2009-12-01 14:51:02 (339 KB/s) - `2008/program/speakers/getspeaker.php?speaker=brown.txt' saved [7344/7344]
+2009-12-01 14:51:02 (339 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=brown.txt' saved [7344/7344]
 
---2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=bsmith.txt
+--2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=bsmith.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=bsmith.txt
+--2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=bsmith.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7576 (7.4K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=bsmith.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=bsmith.txt'
 
      0K .......                                               100%  307K=0.02s
 
-2009-12-01 14:51:02 (307 KB/s) - `2008/program/speakers/getspeaker.php?speaker=bsmith.txt' saved [7576/7576]
+2009-12-01 14:51:02 (307 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=bsmith.txt' saved [7576/7576]
 
---2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=cleech.txt
+--2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=cleech.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=cleech.txt
+--2009-12-01 14:51:02--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=cleech.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=cleech.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=cleech.txt'
 
      0K ........                                                376K=0.02s
 
-2009-12-01 14:51:03 (376 KB/s) - `2008/program/speakers/getspeaker.php?speaker=cleech.txt' saved [8436]
+2009-12-01 14:51:03 (376 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=cleech.txt' saved [8436]
 
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=cmason.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=cmason.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=cmason.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=cmason.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6606 (6.5K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=cmason.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=cmason.txt'
 
      0K ......                                                100%  305K=0.02s
 
-2009-12-01 14:51:03 (305 KB/s) - `2008/program/speakers/getspeaker.php?speaker=cmason.txt' saved [6606/6606]
+2009-12-01 14:51:03 (305 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=cmason.txt' saved [6606/6606]
 
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=hblanchard.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=hblanchard.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=hblanchard.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=hblanchard.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7284 (7.1K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=hblanchard.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=hblanchard.txt'
 
      0K .......                                               100%  336K=0.02s
 
-2009-12-01 14:51:03 (336 KB/s) - `2008/program/speakers/getspeaker.php?speaker=hblanchard.txt' saved [7284/7284]
+2009-12-01 14:51:03 (336 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=hblanchard.txt' saved [7284/7284]
 
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=jcorbet.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=jcorbet.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=jcorbet.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=jcorbet.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6864 (6.7K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=jcorbet.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=jcorbet.txt'
 
      0K ......                                                100%  311K=0.02s
 
-2009-12-01 14:51:03 (311 KB/s) - `2008/program/speakers/getspeaker.php?speaker=jcorbet.txt' saved [6864/6864]
+2009-12-01 14:51:03 (311 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=jcorbet.txt' saved [6864/6864]
 
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=masbock.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=masbock.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=masbock.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=masbock.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=masbock.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=masbock.txt'
 
      0K ........                                                394K=0.02s
 
-2009-12-01 14:51:03 (394 KB/s) - `2008/program/speakers/getspeaker.php?speaker=masbock.txt' saved [9209]
+2009-12-01 14:51:03 (394 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=masbock.txt' saved [9209]
 
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=mpetersen.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=mpetersen.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=mpetersen.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=mpetersen.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=mpetersen.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=mpetersen.txt'
 
      0K ........                                                406K=0.02s
 
-2009-12-01 14:51:03 (406 KB/s) - `2008/program/speakers/getspeaker.php?speaker=mpetersen.txt' saved [9190]
+2009-12-01 14:51:03 (406 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=mpetersen.txt' saved [9190]
 
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=mwong.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=mwong.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=mwong.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=mwong.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7876 (7.7K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=mwong.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=mwong.txt'
 
      0K .......                                               100%  324K=0.02s
 
-2009-12-01 14:51:03 (324 KB/s) - `2008/program/speakers/getspeaker.php?speaker=mwong.txt' saved [7876/7876]
+2009-12-01 14:51:03 (324 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=mwong.txt' saved [7876/7876]
 
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=ttyree.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=ttyree.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=ttyree.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=ttyree.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=ttyree.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=ttyree.txt'
 
      0K ........                                                347K=0.02s
 
-2009-12-01 14:51:03 (347 KB/s) - `2008/program/speakers/getspeaker.php?speaker=ttyree.txt' saved [8799]
+2009-12-01 14:51:03 (347 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=ttyree.txt' saved [8799]
 
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=jkeniston.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=jkeniston.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=jkeniston.txt
+--2009-12-01 14:51:03--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=jkeniston.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 7150 (7.0K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=jkeniston.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=jkeniston.txt'
 
      0K ......                                                100%  288K=0.02s
 
-2009-12-01 14:51:04 (288 KB/s) - `2008/program/speakers/getspeaker.php?speaker=jkeniston.txt' saved [7150/7150]
+2009-12-01 14:51:04 (288 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=jkeniston.txt' saved [7150/7150]
 
---2009-12-01 14:51:04--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=ltorvalds.txt
+--2009-12-01 14:51:04--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=ltorvalds.txt
 Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
 Last-modified header missing -- time-stamps turned off.
---2009-12-01 14:51:04--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php?speaker=ltorvalds.txt
+--2009-12-01 14:51:04--  http://linuxplumbersconf.org/2008/program/speakers/getspeaker.php-?speaker=ltorvalds.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 6584 (6.4K) [text/html]
-Saving to: `2008/program/speakers/getspeaker.php?speaker=ltorvalds.txt'
+Saving to: `2008/program/speakers/getspeaker.php-?speaker=ltorvalds.txt'
 
      0K ......                                                100%  300K=0.02s
 
-2009-12-01 14:51:04 (300 KB/s) - `2008/program/speakers/getspeaker.php?speaker=ltorvalds.txt' saved [6584/6584]
+2009-12-01 14:51:04 (300 KB/s) - `2008/program/speakers/getspeaker.php-?speaker=ltorvalds.txt' saved [6584/6584]
 
 --2009-12-01 14:51:04--  http://linuxplumbersconf.org/2008/images/sidebar/coffee_sign.jpg
 Reusing existing connection to linuxplumbersconf.org:80.
@@ -1474,119 +1474,119 @@ Reusing existing connection to linuxplumbersconf.org:80.
 HTTP request sent, awaiting response... 404 Not Found
 2009-12-01 14:51:05 ERROR 404: Not Found.
 
---2009-12-01 14:51:05--  http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=bergmann.txt
+--2009-12-01 14:51:05--  http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=bergmann.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 404 Not Found
 2009-12-01 14:51:05 ERROR 404: Not Found.
 
---2009-12-01 14:51:05--  http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=achiang.txt
+--2009-12-01 14:51:05--  http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=achiang.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 404 Not Found
 2009-12-01 14:51:06 ERROR 404: Not Found.
 
---2009-12-01 14:51:06--  http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=lbrown.txt
+--2009-12-01 14:51:06--  http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=lbrown.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 404 Not Found
 2009-12-01 14:51:07 ERROR 404: Not Found.
 
---2009-12-01 14:51:07--  http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=bsmith.txt
+--2009-12-01 14:51:07--  http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=bsmith.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 404 Not Found
 2009-12-01 14:51:07 ERROR 404: Not Found.
 
---2009-12-01 14:51:07--  http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=ttyree.txt
+--2009-12-01 14:51:07--  http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=ttyree.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 404 Not Found
 2009-12-01 14:51:08 ERROR 404: Not Found.
 
---2009-12-01 14:51:08--  http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=hblanchard.txt
+--2009-12-01 14:51:08--  http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=hblanchard.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 404 Not Found
 2009-12-01 14:51:09 ERROR 404: Not Found.
 
---2009-12-01 14:51:09--  http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=masbock.txt
+--2009-12-01 14:51:09--  http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=masbock.txt
 Connecting to linuxplumbersconf.org|140.211.166.22|:80... connected.
 HTTP request sent, awaiting response... 404 Not Found
 2009-12-01 14:51:10 ERROR 404: Not Found.
 
 FINISHED --2009-12-01 14:51:10--
 Downloaded: 124 files, 1.2M in 2.3s (535 KB/s)
-Converting 2008/program/speakers/getspeaker.php?speaker=eigler.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=eigler.txt... 38-1
 Converting 2009/index.html... 3-14
-Converting 2008/program/microconfs/getmc.php?mc=chehab08... 38-2
+Converting 2008/program/microconfs/getspeaker.php-?mc=chehab08... 38-2
 Converting 2008/sponsors/index.html... 34-1
-Converting 2008/program/microconfs/getmc.php?mc=poettering08... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?mc=poettering08... 38-1
 Converting 2008/index.html... 42-1
-Converting 2008/program/speakers/getspeaker.php?speaker=mmeeks.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=jmccann.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=rmcgrath.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?speaker=jones08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=hgoede.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=mmeeks.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=jmccann.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=rmcgrath.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=jones08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=hgoede.txt... 38-1
 Converting 2008/program/students/index.html... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=romanick.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=bsmith.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=romanick.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=bsmith.txt... 38-1
 Converting 2008/program/microconfs/index.html... 58-1
-Converting 2008/program/speakers/getspeaker.php?speaker=shemminger.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=cmason.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?mc=zeuthen08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=mgross.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=shemminger.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=cmason.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?mc=zeuthen08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=mgross.txt... 38-1
 Converting 2008/register/FAQ/index.html... 35-1
-Converting 2008/program/speakers/getspeaker.php?speaker=kmcmartin.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?speaker=rostedt08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=oneukum.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=jcorbet.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?mc=jones08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=jwoithe.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?speaker=wilcox08... 38-1
-Converting 2008/program/microconfs/getmc.php?speaker=chehab08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=achiang.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=bergmann.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=jbecker.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=airlie.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=kmcmartin.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=rostedt08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=oneukum.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=jcorbet.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?mc=jones08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=jwoithe.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=wilcox08... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=chehab08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=achiang.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=bergmann.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=jbecker.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=airlie.txt... 38-1
 Converting 2008/contact/index.html... 34-1
-Converting 2008/program/speakers/getspeaker.php?speaker=srostedt.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=avandeven.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=srostedt.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=avandeven.txt... 38-1
 Converting 2008/sitenotes/index.html... 43-1
-Converting 2008/program/speakers/getspeaker.php?speaker=cworth.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=cworth.txt... 38-1
 Converting 2008/venue/index.html... 39-1
 Converting 2008/travel/index.html... 35-1
-Converting 2008/program/microconfs/getmc.php?speaker=wong08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=mkerrisk.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=tiwai.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=mwong.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?mc=packard08... 38-1
-Converting 2008/program/microconfs/getmc.php?mc=garrett08... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=wong08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=mkerrisk.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=tiwai.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=mwong.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?mc=packard08... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?mc=garrett08... 38-1
 Converting 2008/register/index.html... 36-1
-Converting 2008/program/speakers/getspeaker.php?speaker=lbrown.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=ttyree.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?speaker=zeuthen08... 38-1
-Converting 2008/program/microconfs/getmc.php?mc=gregkh08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=djones.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=brown.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?speaker=poettering08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=ltorvalds.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=cleech.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=bphilips.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=hblanchard.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=dsaxena.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=sjremnant.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=lbrown.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=ttyree.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=zeuthen08... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?mc=gregkh08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=djones.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=brown.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=poettering08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=ltorvalds.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=cleech.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=bphilips.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=hblanchard.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=dsaxena.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=sjremnant.txt... 38-1
 Converting 2008/program/speakers/index.html... 81-1
-Converting 2008/program/microconfs/getmc.php?speaker=packard08... 38-1
-Converting 2008/program/microconfs/getmc.php?mc=wong08... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=packard08... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?mc=wong08... 38-1
 Converting 2008/program/schedule/index.html... 88-14
-Converting 2008/program/speakers/getspeaker.php?speaker=jkeniston.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=jbottomley.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=mdesnoyers.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=gkhartman.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?mc=wilcox08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=hverkuil.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?mc=rostedt08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=jkeniston.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=jbottomley.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=mdesnoyers.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=gkhartman.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?mc=wilcox08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=hverkuil.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?mc=rostedt08... 38-1
 Converting 2008/cfp/index.html... 34-1
-Converting 2008/program/speakers/getspeaker.php?speaker=masbock.txt... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=mchehab.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=masbock.txt... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=mchehab.txt... 38-1
 Converting 2008/organizers/index.html... 34-1
-Converting 2008/program/microconfs/getmc.php?speaker=garrett08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=jkumar.txt... 38-1
-Converting 2008/program/microconfs/getmc.php?speaker=gregkh08... 38-1
-Converting 2008/program/speakers/getspeaker.php?speaker=mpetersen.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=garrett08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=jkumar.txt... 38-1
+Converting 2008/program/microconfs/getspeaker.php-?speaker=gregkh08... 38-1
+Converting 2008/program/speakers/getspeaker.php-?speaker=mpetersen.txt... 38-1
 Converted 78 files in 0.4 seconds.

@@ -1,0 +1,3 @@
+<FilesMatch ".*">
+	Forcetype text/html
+</FilesMatch>

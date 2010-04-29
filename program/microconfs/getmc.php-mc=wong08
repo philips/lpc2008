@@ -184,11 +184,11 @@ I have accepted these talks for the server track.
 
 </p>
 <ul>
-<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=bergmann.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=bergmann.txt"  rel="nofollow">Infrastructure for PCIe endpoint devices</a> - Arnd Bergmann</strong> - An increasing number of Linux based machines features PCI express ports that can be used as an endpoint…</div>
+<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=bergmann.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php-speaker=bergmann.txt"  rel="nofollow">Infrastructure for PCIe endpoint devices</a> - Arnd Bergmann</strong> - An increasing number of Linux based machines features PCI express ports that can be used as an endpoint…</div>
 </li>
-<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=achiang.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=achiang.txt"  rel="nofollow">Physical PCI Slots</a> - Alexander Chiang</strong> - Using firmware data (DMI/ACPI/etc) to translate kernel device names to physical devices in PCI slots…</div>
+<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=achiang.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php-speaker=achiang.txt"  rel="nofollow">Physical PCI Slots</a> - Alexander Chiang</strong> - Using firmware data (DMI/ACPI/etc) to translate kernel device names to physical devices in PCI slots…</div>
 </li>
-<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=lbrown.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=lbrown.txt"  rel="nofollow">Hiding ACPI</a> - Len Brown</strong> - Burying ACPI data/functionality in generic K/U “firmware” interfaces…</div>
+<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=lbrown.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php-speaker=lbrown.txt"  rel="nofollow">Hiding ACPI</a> - Len Brown</strong> - Burying ACPI data/functionality in generic K/U “firmware” interfaces…</div>
 </li>
 </ul>
 
@@ -203,13 +203,13 @@ A few more talks that I argued for inclusion in Track 3 (miscellaneous):
 
 </p>
 <ul>
-<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=bsmith.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=bsmith.txt"  rel="nofollow">How to Talk to a Long-Running Process</a> - Bob Smith</strong> - Run Time Access (RTA) is a lightweight library that provides an intuitive interface that lets you view and edit data in a running process…</div>
+<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=bsmith.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php-speaker=bsmith.txt"  rel="nofollow">How to Talk to a Long-Running Process</a> - Bob Smith</strong> - Run Time Access (RTA) is a lightweight library that provides an intuitive interface that lets you view and edit data in a running process…</div>
 </li>
-<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=ttyree.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=ttyree.txt"  rel="nofollow">Virtualized Development Infrastructure Management with Puppet: Beyond Cloning</a> - Teyo Tyree</strong> - Using Puppet to manage system images…</div>
+<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=ttyree.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php-speaker=ttyree.txt"  rel="nofollow">Virtualized Development Infrastructure Management with Puppet: Beyond Cloning</a> - Teyo Tyree</strong> - Using Puppet to manage system images…</div>
 </li>
-<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=hblanchard.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=hblanchard.txt"  rel="nofollow">Embedded virtualization with KVM: Yes, it does make sense!</a> - Hollis Blanchard</strong> - KVM on embedded PPC systems…</div>
+<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=hblanchard.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php-speaker=hblanchard.txt"  rel="nofollow">Embedded virtualization with KVM: Yes, it does make sense!</a> - Hollis Blanchard</strong> - KVM on embedded PPC systems…</div>
 </li>
-<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=masbock.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php?speaker=masbock.txt"  rel="nofollow">Are the DIMMs going bad?</a> - Max Asbock</strong> - Decoding error messages from MCE/EDAC drivers, and how to clean up the tools to make them more user friendly…</div>
+<li class="level1"><div class="li"> <strong><a href="http://linuxplumbersconf.org/program/speakers/getspeaker.php-?speaker=masbock.txt" class="urlextern" title="http://linuxplumbersconf.org/program/speakers/getspeaker.php-speaker=masbock.txt"  rel="nofollow">Are the DIMMs going bad?</a> - Max Asbock</strong> - Decoding error messages from MCE/EDAC drivers, and how to clean up the tools to make them more user friendly…</div>
 </li>
 </ul>
 
